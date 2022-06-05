@@ -101,16 +101,3 @@ type Station struct {
 	ISOCountry      string `json:"iso2CountryCode"`
 	Country         string `json:"countryName"`
 }
-
-/*
- {
-      "flightLegs": [
-        {
-
-          "irregularity": {
-            "cancelled": "N"
-          },
-        }
-      ],
-    },
-*/

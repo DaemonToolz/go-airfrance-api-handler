@@ -31,6 +31,3 @@ var routes = Routes{
 		getFlight,
 	},
 }
-
-// 2h68dyzmx4tbxx4asxua599b Key
-// N1kI9WL6cM Secret

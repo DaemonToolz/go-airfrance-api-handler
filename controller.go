@@ -24,5 +24,3 @@ func getFlight(w http.ResponseWriter, r *http.Request) {
 		panic(err)
 	}
 }
-
-//

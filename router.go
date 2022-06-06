@@ -1,6 +1,8 @@
 package main
 
 import (
+	"fmt"
+
 	"github.com/gorilla/mux"
 )
 
@@ -18,6 +20,6 @@ func NewRouter() *mux.Router {
 			Handler(LoggerHandler(route.HandlerFunc))
 
 	}
-
+	fmt.Println(router)
 	return router
 }

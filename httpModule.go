@@ -16,14 +16,13 @@ const (
 
 func sendAllFlightsRequest() FlightsData {
 	data := FlightsData{}
-	json.Unmarshal(sendRequest("GET", "https://api.airfranceklm.com/opendata/flightstatus?serviceType=J", nil), &data)
+	json.Unmarshal(sendRequest("GET", "https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&carrierCode=KL,AF,TG&startRange=2022-06-05T22:10:43Z&endRange=2022-06-07T13:00:50Z&origin=CDG&departureCity=", nil), &data)
 	return data
 }
 
 func sendFlightRequest(id string) Flight {
 	data := Flight{}
 	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus/%s", id), nil), &data)
-
 	return data
 }
 

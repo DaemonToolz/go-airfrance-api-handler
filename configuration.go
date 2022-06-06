@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	"net/http"
 	"os"
 	"path/filepath"
 )
@@ -53,11 +52,4 @@ func prepareLogs() {
 	}
 
 	log.SetOutput(logFile)
-}
-
-// constructHeaders : A remplacer par un Reverse-Proxy (NGINX)
-func constructHeaders(w *http.ResponseWriter, r *http.Request) {
-	(*w).Header().Set("Access-Control-Allow-Origin", "*")
-	(*w).Header().Set("Access-Control-Allow-Headers", "Content-Type, Accept, X-Requested-With, remember-me")
-	(*w).Header().Set("Content-Type", "application/json; charset=UTF-8")
 }

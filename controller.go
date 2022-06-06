@@ -10,7 +10,7 @@ import (
 
 func getAllFlights(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
-	if err := json.NewEncoder(w).Encode(sendAllFlightsRequest()); err != nil {
+	if err := json.NewEncoder(w).Encode(sendAllFlightsRequest().Flights); err != nil {
 		log.Printf(err.Error())
 		panic(err)
 	}

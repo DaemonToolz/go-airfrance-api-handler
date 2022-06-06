@@ -25,7 +25,7 @@ func initMiddleware(router *mux.Router) {
 		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 			log.Printf("%s\t%s\t", r.Method, r.RequestURI)
 			printRequest(r.RemoteAddr)
-			constructHeaders(&w, r)
+			//constructHeaders(&w, r)
 			next.ServeHTTP(w, r)
 
 		})

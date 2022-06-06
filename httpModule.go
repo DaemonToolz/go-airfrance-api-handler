@@ -14,9 +14,9 @@ const (
 	NetworkSchedule = "network-and-schedule"
 )
 
-func sendAllFlightsRequest() FlightsData {
+func sendAllFlightsRequest(begin string, end string, pageNumber int) FlightsData {
 	data := FlightsData{}
-	json.Unmarshal(sendRequest("GET", "https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&carrierCode=KL,AF,TG&startRange=2022-06-05T22:10:43Z&endRange=2022-06-07T13:00:50Z&origin=CDG&departureCity=", nil), &data)
+	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&startRange=%s&endRange=%s&pageSize=12&origin=CDG&departureCity=&pageNumber=%d", begin, end, pageNumber), nil), &data)
 	return data
 }
 

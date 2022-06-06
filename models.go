@@ -4,7 +4,16 @@ import "time"
 
 //
 type FlightsData struct {
-	Flights []Flight `json:"operationalFlights"`
+	Flights  []Flight `json:"operationalFlights"`
+	PageData PageData `json:"page"`
+}
+
+type PageData struct {
+	Size        int `json:"pageSize"`
+	Number      int `json:"pageNumber"`
+	FullCount   int `json:"fullCount"`
+	ItemPerPage int `json:"pageCount"`
+	TotalPages  int `json:"totalPages"`
 }
 
 type Flight struct {

@@ -16,17 +16,25 @@ const (
 
 func sendAllFlightsRequest(begin string, end string, pageNumber int) FlightsData {
 	data := FlightsData{}
-	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&startRange=%s&endRange=%s&pageSize=12&origin=CDG&departureCity=&pageNumber=%d", begin, end, pageNumber), nil), &data)
+	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&startRange=%s&endRange=%s&pageSize=12&origin=CDG&departureCity=&pageNumber=%d", begin, end, pageNumber), nil, nil), &data)
 	return data
+}
+
+func sendOfferRequest() string {
+	return ""
+	//offerHeaders := make(map[string]string)
+	//offerHeaders["AFKL-TRAVEL-Host"] = "AF"
+	//fmt.Println(string(sendRequest("GET", "https://api.airfranceklm.com/opendata/offers/v1/available-offers?departureDate=2022-06-30T00:00:00Z&d='1'&displayPriceContent='1'&displayPriceBalance=true", nil, offerHeaders)))
+	//return string(sendRequest("GET", "https://api.airfranceklm.com/opendata/offers/v1/available-offers?departureDate=2022-06-30T00:00:00Z&d='1'&displayPriceContent='1'&displayPriceBalance=true", nil, offerHeaders))
 }
 
 func sendFlightRequest(id string) Flight {
 	data := Flight{}
-	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus/%s", id), nil), &data)
+	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus/%s", id), nil, nil), &data)
 	return data
 }
 
-func sendRequest(method string, uri string, inBody interface{}) []byte {
+func sendRequest(method string, uri string, inBody interface{}, headers map[string]string) []byte {
 	client := &http.Client{}
 
 	var req *http.Request
@@ -39,6 +47,12 @@ func sendRequest(method string, uri string, inBody interface{}) []byte {
 	req.Header.Add("Accept", "application/hal+json")
 	req.Header.Add("Api-Key", appConfig.Key)
 	req.Header.Add("Accept-Language", "en-GB")
+
+	if headers != nil {
+		for k, v := range headers {
+			req.Header.Add(k, v)
+		}
+	}
 
 	res, err := client.Do(req)
 	if err != nil {

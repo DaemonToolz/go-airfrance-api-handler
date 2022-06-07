@@ -27,3 +27,11 @@ func getFlight(w http.ResponseWriter, r *http.Request) {
 		panic(err)
 	}
 }
+
+func getAllOffers(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
+	if err := json.NewEncoder(w).Encode(sendOfferRequest()); err != nil {
+		log.Printf(err.Error())
+		panic(err)
+	}
+}

@@ -30,4 +30,11 @@ var routes = Routes{
 		"/api/v1/flights/{flight_id}",
 		getFlight,
 	},
+
+	Route{
+		"Get Offers",
+		"GET",
+		"/api/v1/offers",
+		getAllOffers,
+	},
 }

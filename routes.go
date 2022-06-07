@@ -20,21 +20,21 @@ var routes = Routes{
 	Route{
 		"Get Flights",
 		"GET",
-		"/api/v1/flights",
+		"/api/air/v1/flights",
 		getAllFlights,
 	},
 
 	Route{
 		"Get Flight",
 		"GET",
-		"/api/v1/flights/{flight_id}",
+		"/api/air/v1/flights/{flight_id}",
 		getFlight,
 	},
 
 	Route{
 		"Get Offers",
 		"GET",
-		"/api/v1/offers",
+		"/api/air/v1/offers",
 		getAllOffers,
 	},
 }

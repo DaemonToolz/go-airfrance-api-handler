@@ -37,4 +37,18 @@ var routes = Routes{
 		"/api/air/v1/offers",
 		getAllOffers,
 	},
+
+	Route{
+		"Get Stations",
+		"GET",
+		"/api/air/v1/stations",
+		getAllStations,
+	},
+
+	Route{
+		"Get Stations",
+		"GET",
+		"/api/air/v1/offers/detail",
+		getFlightDetail,
+	},
 }

@@ -30,7 +30,33 @@ func getFlight(w http.ResponseWriter, r *http.Request) {
 
 func getAllOffers(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
-	if err := json.NewEncoder(w).Encode(sendOfferRequest()); err != nil {
+
+	if err := json.NewEncoder(w).Encode(sendOfferRequest(r.URL.Query().Get("date"), r.URL.Query().Get("from"), r.URL.Query().Get("to")).FlightProduct); err != nil {
+		log.Printf(err.Error())
+		panic(err)
+	}
+}
+
+func getFlightDetail(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
+
+	var url InputUrl
+	err := json.NewDecoder(r.Body).Decode(&url)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	if err := json.NewEncoder(w).Encode(sendFlightDetailsRequest(url.URL)); err != nil {
+		log.Printf(err.Error())
+		panic(err)
+	}
+}
+
+func getAllStations(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
+
+	if err := json.NewEncoder(w).Encode(sendStationsRequest().StationCities); err != nil {
 		log.Printf(err.Error())
 		panic(err)
 	}

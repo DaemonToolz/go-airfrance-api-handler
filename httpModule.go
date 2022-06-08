@@ -20,17 +20,53 @@ func sendAllFlightsRequest(begin string, end string, pageNumber int) FlightsData
 	return data
 }
 
-func sendOfferRequest() string {
-	return ""
-	//offerHeaders := make(map[string]string)
-	//offerHeaders["AFKL-TRAVEL-Host"] = "AF"
-	//fmt.Println(string(sendRequest("GET", "https://api.airfranceklm.com/opendata/offers/v1/available-offers?departureDate=2022-06-30T00:00:00Z&d='1'&displayPriceContent='1'&displayPriceBalance=true", nil, offerHeaders)))
-	//return string(sendRequest("GET", "https://api.airfranceklm.com/opendata/offers/v1/available-offers?departureDate=2022-06-30T00:00:00Z&d='1'&displayPriceContent='1'&displayPriceBalance=true", nil, offerHeaders))
+func sendOfferRequest(plannedDeparture string, from string, to string) Itineraries {
+	result := Itineraries{}
+
+	offerHeaders := make(map[string]string)
+	offerHeaders["AFKL-TRAVEL-Host"] = "AF"
+	offerHeaders["AFKL-Travel-Country"] = "FR"
+	offerHeaders["Content-Type"] = "application/json"
+	offerHeaders["Accept"] = "application/hal+json"
+
+	aop := AvailableOfferParam{}
+	aop.CommercialCabin = []string{"ALL"}
+	aop.PassengerCount = PassengerCount{
+		Adult: 1,
+	}
+	aop.RequestedConnections = []RequestedConnectionParam{{
+		DepartureDate: plannedDeparture, // "2022-07-15",
+		Origin:        RequestedParam{Airport: LocationParam{Code: from}},
+		Destination:   RequestedParam{Airport: LocationParam{Code: to}},
+	}}
+
+	json.Unmarshal(sendRequest("POST", "https://api.airfranceklm.com/opendata/offers/v1/available-offers", aop, offerHeaders), &result)
+
+	return result
 }
 
 func sendFlightRequest(id string) Flight {
 	data := Flight{}
-	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus/%s", id), nil, nil), &data)
+	headers := make(map[string]string)
+	headers["Accept"] = "application/hal+json"
+	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus/%s", id), nil, headers), &data)
+	return data
+}
+
+func sendStationsRequest() StationCitiesResponse {
+	data := StationCitiesResponse{}
+	json.Unmarshal(sendRequest("GET", "https://api.airfranceklm.com/opendata/network-and-schedule/typical-flight-schedule/stations", nil, nil), &data)
+	return data
+}
+
+func sendFlightDetailsRequest(input string) StationCitiesResponse {
+	data := StationCitiesResponse{}
+	offerHeaders := make(map[string]string)
+	offerHeaders["AFKL-TRAVEL-Host"] = "AF"
+	offerHeaders["AFKL-TRAVEL-Country"] = "FR"
+	offerHeaders["Content-Type"] = "application/json"
+	offerHeaders["Accept"] = "application/hal+json"
+	json.Unmarshal(sendRequest("GET", input, nil, offerHeaders), &data)
 	return data
 }
 
@@ -40,11 +76,11 @@ func sendRequest(method string, uri string, inBody interface{}, headers map[stri
 	var req *http.Request
 	if inBody != nil {
 		bodyByte, _ := json.Marshal(inBody)
+		fmt.Println(string(bodyByte))
 		req, _ = http.NewRequest(method, uri, bytes.NewBuffer(bodyByte))
 	} else {
 		req, _ = http.NewRequest(method, uri, nil)
 	}
-	req.Header.Add("Accept", "application/hal+json")
 	req.Header.Add("Api-Key", appConfig.Key)
 	req.Header.Add("Accept-Language", "en-GB")
 
@@ -67,5 +103,6 @@ func sendRequest(method string, uri string, inBody interface{}, headers map[stri
 		log.Fatal(err)
 	}
 
+	fmt.Println(string(body))
 	return body
 }

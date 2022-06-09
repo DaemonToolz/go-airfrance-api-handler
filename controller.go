@@ -37,7 +37,7 @@ func getAllOffers(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-func getFlightDetail(w http.ResponseWriter, r *http.Request) {
+func getOfferDetail(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
 
 	var url InputUrl
@@ -47,7 +47,7 @@ func getFlightDetail(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	if err := json.NewEncoder(w).Encode(sendFlightDetailsRequest(url.URL)); err != nil {
+	if err := json.NewEncoder(w).Encode(sendOfferDetailFromLink(url.URL, url.ReqType)); err != nil {
 		log.Printf(err.Error())
 		panic(err)
 	}

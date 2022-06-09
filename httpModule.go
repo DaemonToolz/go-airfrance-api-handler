@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"reflect"
 )
 
 // curl -X GET "network-and-schedule/typical-flight-schedule/iata-seasons" -H "Api-Key:****"
@@ -18,6 +19,31 @@ func sendAllFlightsRequest(begin string, end string, pageNumber int) FlightsData
 	data := FlightsData{}
 	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&startRange=%s&endRange=%s&pageSize=12&origin=CDG&departureCity=&pageNumber=%d", begin, end, pageNumber), nil, nil), &data)
 	return data
+}
+
+func sendOfferDetailRequest(plannedDeparture string, from string, to string) Itineraries {
+	result := Itineraries{}
+
+	offerHeaders := make(map[string]string)
+	offerHeaders["AFKL-TRAVEL-Host"] = "AF"
+	offerHeaders["AFKL-Travel-Country"] = "FR"
+	offerHeaders["Content-Type"] = "application/json"
+	offerHeaders["Accept"] = "application/hal+json"
+
+	aop := AvailableOfferParam{}
+	aop.CommercialCabin = []string{"ALL"}
+	aop.PassengerCount = PassengerCount{
+		Adult: 1,
+	}
+	aop.RequestedConnections = []RequestedConnectionParam{{
+		DepartureDate: plannedDeparture, // "2022-07-15",
+		Origin:        RequestedParam{Airport: LocationParam{Code: from}},
+		Destination:   RequestedParam{Airport: LocationParam{Code: to}},
+	}}
+
+	json.Unmarshal(sendRequest("POST", "https://api.airfranceklm.com/opendata/offers/v1/available-offers", aop, offerHeaders), &result)
+
+	return result
 }
 
 func sendOfferRequest(plannedDeparture string, from string, to string) Itineraries {
@@ -59,15 +85,18 @@ func sendStationsRequest() StationCitiesResponse {
 	return data
 }
 
-func sendFlightDetailsRequest(input string) StationCitiesResponse {
-	data := StationCitiesResponse{}
+func sendOfferDetailFromLink(input string, dataType string) interface{} {
+
 	offerHeaders := make(map[string]string)
 	offerHeaders["AFKL-TRAVEL-Host"] = "AF"
 	offerHeaders["AFKL-TRAVEL-Country"] = "FR"
 	offerHeaders["Content-Type"] = "application/json"
 	offerHeaders["Accept"] = "application/hal+json"
+
+	var data = reflect.New(RequestRedirect[dataType]).Interface()
 	json.Unmarshal(sendRequest("GET", input, nil, offerHeaders), &data)
 	return data
+
 }
 
 func sendRequest(method string, uri string, inBody interface{}, headers map[string]string) []byte {
@@ -102,7 +131,8 @@ func sendRequest(method string, uri string, inBody interface{}, headers map[stri
 	if err != nil {
 		log.Fatal(err)
 	}
+	fmt.Println(res.Status)
+	fmt.Println(res.StatusCode)
 
-	fmt.Println(string(body))
 	return body
 }

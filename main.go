@@ -17,6 +17,7 @@ func main() {
 	serveMux = http.NewServeMux()
 	router = NewRouter()
 	initMiddleware(router)
+	initMappingRedirect()
 	go serverHttpServer()
 
 	sigChan := make(chan os.Signal)

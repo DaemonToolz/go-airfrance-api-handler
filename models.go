@@ -1,6 +1,8 @@
 package main
 
-import "time"
+import (
+	"time"
+)
 
 // Get all flights
 type FlightsData struct {
@@ -293,20 +295,3 @@ type StationCity struct {
 	StationCode string `json:"iataStationCode"`
 	Name        string `json:"name"`
 }
-
-type InputUrl struct {
-	URL string `json:"url"`
-}
-
-/*
-   "iataStationCode": "AAL",
-   "name": "AALBORG AIRPORT",
-   "iataCityCode": "AAL",
-   "cityName": "AALBORG",
-   "iso2CountryCode": "DK",
-   "countryName": "Denmark",
-   "subRegionCode": "154",
-   "regionCode": "150",
-   "subRegionName": "Northern Europe",
-   "regionName": "Europe"
-*/

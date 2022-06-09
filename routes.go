@@ -46,9 +46,9 @@ var routes = Routes{
 	},
 
 	Route{
-		"Get Stations",
-		"GET",
+		"Get flight detail",
+		"POST",
 		"/api/air/v1/offers/detail",
-		getFlightDetail,
+		getOfferDetail,
 	},
 }

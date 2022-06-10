@@ -164,8 +164,8 @@ type Itineraries struct {
 }
 
 type Itinerary struct {
-	FlightProducts []FlightProduct `json:"flightProducts"`
-	Connections    []Connection    `json:"connections"`
+	FlightProducts []FlightProduct    `json:"flightProducts"`
+	Connections    []ConnectionDetail `json:"connections"`
 }
 
 type FlightProduct struct {

@@ -15,9 +15,9 @@ const (
 	NetworkSchedule = "network-and-schedule"
 )
 
-func sendAllFlightsRequest(begin string, end string, pageNumber int) FlightsData {
+func sendAllFlightsRequest(from string, to string, begin string, end string, pageNumber int) FlightsData {
 	data := FlightsData{}
-	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&startRange=%s&endRange=%s&pageSize=12&origin=CDG&departureCity=&pageNumber=%d", begin, end, pageNumber), nil, nil), &data)
+	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&startRange=%s&endRange=%s&pageSize=12&origin=%s&destination=%s&departureCity=&arrivalCity=&pageNumber=%d", begin, end, from, to, pageNumber), nil, nil), &data)
 	return data
 }
 
@@ -107,12 +107,17 @@ func sendRequest(method string, uri string, inBody interface{}, headers map[stri
 		bodyByte, _ := json.Marshal(inBody)
 		fmt.Println(string(bodyByte))
 		req, _ = http.NewRequest(method, uri, bytes.NewBuffer(bodyByte))
+
+		fmt.Println("Sending with body")
 	} else {
 		req, _ = http.NewRequest(method, uri, nil)
+		fmt.Println("Sending without body")
 	}
 	req.Header.Add("Api-Key", appConfig.Key)
 	req.Header.Add("Accept-Language", "en-GB")
 
+	fmt.Println(uri)
+	fmt.Println(method)
 	if headers != nil {
 		for k, v := range headers {
 			req.Header.Add(k, v)
@@ -131,8 +136,11 @@ func sendRequest(method string, uri string, inBody interface{}, headers map[stri
 	if err != nil {
 		log.Fatal(err)
 	}
+
 	fmt.Println(res.Status)
 	fmt.Println(res.StatusCode)
-
+	if res.Status != "200" {
+		fmt.Println(string(body))
+	}
 	return body
 }

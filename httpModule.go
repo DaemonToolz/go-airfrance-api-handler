@@ -42,7 +42,7 @@ func sendOfferDetailRequest(plannedDeparture string, from string, to string) Iti
 		Destination:   RequestedParam{Airport: LocationParam{Code: to}},
 	}}
 
-	json.Unmarshal(sendRequest("POST", "https://api.airfranceklm.com/opendata/offers/v1/available-offers", aop, offerHeaders), &result)
+	json.Unmarshal(sendRequest("POST", "https://api.airfranceklm.com/opendata/offers/v3/available-offers", aop, offerHeaders), &result)
 
 	return result
 }

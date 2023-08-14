@@ -1,0 +1,6883 @@
+[
+    {
+        "name": "Hong Kong International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "HK",
+        "cityName": "Hong Kong",
+        "iataStationCode": "HKG",
+        "category": "major"
+    },
+    {
+        "name": "Kaohsiung International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TW",
+        "cityName": "Kaohsiung cityName",
+        "iataStationCode": "KHH",
+        "category": "major"
+    },
+    {
+        "name": "Taiwan Taoyuan International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TW",
+        "cityName": "Taipei",
+        "iataStationCode": "TPE",
+        "category": "major"
+    },
+    {
+        "name": "Copenhagen Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DK",
+        "cityName": "Copenhagen",
+        "iataStationCode": "CPH",
+        "category": "major"
+    },
+    {
+        "name": "Schiphol Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NL",
+        "cityName": "Amsterdam",
+        "iataStationCode": "AMS",
+        "category": "major"
+    },
+    {
+        "name": "Deurne Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "BE",
+        "cityName": "Antwerp",
+        "iataStationCode": "ANR",
+        "category": "mid"
+    },
+    {
+        "name": "Queen Beatrix International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "AW",
+        "cityName": "Oranjestad",
+        "iataStationCode": "AUA",
+        "category": "mid"
+    },
+    {
+        "name": "Brussels Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "BE",
+        "cityName": "Brussels",
+        "iataStationCode": "BRU",
+        "category": "major"
+    },
+    {
+        "name": "Rotterdam Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NL",
+        "cityName": "Rotterdam",
+        "iataStationCode": "RTM",
+        "category": "mid"
+    },
+    {
+        "name": "General Manuel Marquez de Leon International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "La Paz",
+        "iataStationCode": "LAP",
+        "category": "mid"
+    },
+    {
+        "name": "Voronezh-Chertovitskoye Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Voronezh",
+        "iataStationCode": "VOZ",
+        "category": "mid"
+    },
+    {
+        "name": "Liverpool John Lennon Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Liverpool",
+        "iataStationCode": "LPL",
+        "category": "major"
+    },
+    {
+        "name": "Harbin Yangjiagang Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Harbin",
+        "iataStationCode": "HRB",
+        "category": "major"
+    },
+    {
+        "name": "Sadiq Abubakar Iii Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Sokoto",
+        "iataStationCode": "SKO",
+        "category": "mid"
+    },
+    {
+        "name": "Trivandrum International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Trivandrum",
+        "iataStationCode": "TRV",
+        "category": "mid"
+    },
+    {
+        "name": "Djibouti Ambouli Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "DJ",
+        "cityName": "Djibouti cityName",
+        "iataStationCode": "JIB",
+        "category": "mid"
+    },
+    {
+        "name": "Singapore Changi Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "SG",
+        "cityName": "Singapore",
+        "iataStationCode": "SIN",
+        "category": "major"
+    },
+    {
+        "name": "Adnan Menderes Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TR",
+        "cityName": "Ä°zmir",
+        "iataStationCode": "ADB",
+        "category": "major"
+    },
+    {
+        "name": "Mariscal Sucre International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "EC",
+        "cityName": "Quito",
+        "iataStationCode": "UIO",
+        "category": "mid"
+    },
+    {
+        "name": "Vishakapatnam Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Visakhapatnam",
+        "iataStationCode": "VTZ",
+        "category": "mid"
+    },
+    {
+        "name": "Diego Aracena International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Iquique",
+        "iataStationCode": "IQQ",
+        "category": "mid and military"
+    },
+    {
+        "name": "Karachi Civil Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Karachi",
+        "iataStationCode": "KHI",
+        "category": "mid"
+    },
+    {
+        "name": "Kishinev S.E. Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "MD",
+        "cityName": "Chi",
+        "iataStationCode": "KIV",
+        "category": "mid"
+    },
+    {
+        "name": "Nanjing Lukou International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Nanjing",
+        "iataStationCode": "NKG",
+        "category": "major"
+    },
+    {
+        "name": "Sabiha Gokcen Havaalani",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TR",
+        "cityName": "Istanbul",
+        "iataStationCode": "SAW",
+        "category": "major"
+    },
+    {
+        "name": "Jorge Chavez Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "PE",
+        "cityName": "Lima",
+        "iataStationCode": "LIM",
+        "category": "major"
+    },
+    {
+        "name": "Thunder Bay International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Thunder Bay",
+        "iataStationCode": "YQT",
+        "category": "mid"
+    },
+    {
+        "name": "Vilnius Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "LT",
+        "cityName": "Vilnius",
+        "iataStationCode": "VNO",
+        "category": "major"
+    },
+    {
+        "name": "Hasanuddin Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Ujung Pandang-Celebes Island",
+        "iataStationCode": "UPG",
+        "category": "major"
+    },
+    {
+        "name": "Hsien Yang Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Xianyang",
+        "iataStationCode": "XIY",
+        "category": "major"
+    },
+    {
+        "name": "Del Norte International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "",
+        "iataStationCode": "NTR",
+        "category": "mid"
+    },
+    {
+        "name": "Fua'amotu International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "TO",
+        "cityName": "Nuku'alofa",
+        "iataStationCode": "TBU",
+        "category": "mid"
+    },
+    {
+        "name": "Kosrae Island Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "FM",
+        "cityName": "Okat",
+        "iataStationCode": "KSA",
+        "category": "mid"
+    },
+    {
+        "name": "Lupepau'u Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "TO",
+        "cityName": "Vava'u Island",
+        "iataStationCode": "VAV",
+        "category": "mid"
+    },
+    {
+        "name": "Newcastle International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Newcastle",
+        "iataStationCode": "NCL",
+        "category": "major"
+    },
+    {
+        "name": "Freeport International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "BS",
+        "cityName": "Freeport",
+        "iataStationCode": "FPO",
+        "category": "mid"
+    },
+    {
+        "name": "Funafuti International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "TV",
+        "cityName": "Funafuti",
+        "iataStationCode": "FUN",
+        "category": "mid"
+    },
+    {
+        "name": "London Heathrow Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "London",
+        "iataStationCode": "LHR",
+        "category": "major"
+    },
+    {
+        "name": "Solapur Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Solapur",
+        "iataStationCode": "SSE",
+        "category": "mid"
+    },
+    {
+        "name": "Esfahan International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Isfahan",
+        "iataStationCode": "IFN",
+        "category": "mid"
+    },
+    {
+        "name": "Goloson International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "HN",
+        "cityName": "La Ceiba",
+        "iataStationCode": "LCE",
+        "category": "mid"
+    },
+    {
+        "name": "Madinah International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "SA",
+        "cityName": "Medina",
+        "iataStationCode": "MED",
+        "category": "major"
+    },
+    {
+        "name": "Mirabel International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Montreal",
+        "iataStationCode": "YMX",
+        "category": "mid"
+    },
+    {
+        "name": "Palanga International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "LT",
+        "cityName": "Palanga",
+        "iataStationCode": "PLQ",
+        "category": "mid"
+    },
+    {
+        "name": "Tripoli International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "LY",
+        "cityName": "Tripoli",
+        "iataStationCode": "TIP",
+        "category": "major"
+    },
+    {
+        "name": "Gander International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Gander",
+        "iataStationCode": "YQX",
+        "category": "mid"
+    },
+    {
+        "name": "Harare International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZW",
+        "cityName": "Harare",
+        "iataStationCode": "HRE",
+        "category": "mid"
+    },
+    {
+        "name": "Sanganer Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Jaipur",
+        "iataStationCode": "JAI",
+        "category": "mid"
+    },
+    {
+        "name": "Kuwait International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KW",
+        "cityName": "Kuwait cityName",
+        "iataStationCode": "KWI",
+        "category": "major"
+    },
+    {
+        "name": "Dr. Babasaheb Ambedkar International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Naqpur",
+        "iataStationCode": "NAG",
+        "category": "mid"
+    },
+    {
+        "name": "Macdonald-Cartier Int'l Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Ottawa",
+        "iataStationCode": "YOW",
+        "category": "major"
+    },
+    {
+        "name": "Phuket International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TH",
+        "cityName": "Phuket",
+        "iataStationCode": "HKT",
+        "category": "mid"
+    },
+    
+    {
+        "name": "Suvarnabhumi International",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TH",
+        "cityName": "Bangkok",
+        "iataStationCode": "BKK",
+        "category": "major"
+    },
+    {
+        "name": "Birsa Munda Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Ranchi",
+        "iataStationCode": "IXR",
+        "category": "mid"
+    },
+    {
+        "name": "Sonari Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "",
+        "iataStationCode": "IXW",
+        "category": "mid"
+    },
+    {
+        "name": "Yenisehir Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TR",
+        "cityName": "Bursa",
+        "iataStationCode": "YEI",
+        "category": "mid"
+    },
+    {
+        "name": "Kabul International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "AF",
+        "cityName": "Kabul",
+        "iataStationCode": "KBL",
+        "category": "mid"
+    },
+    {
+        "name": "Doha International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "QA",
+        "cityName": "Doha",
+        "iataStationCode": "DOH",
+        "category": "major and military"
+    },
+    {
+        "name": "Nadi International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "FJ",
+        "cityName": "Nadi",
+        "iataStationCode": "NAN",
+        "category": "mid"
+    },
+    {
+        "name": "Abidjan Port Bouet Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CI",
+        "cityName": "Abidjan",
+        "iataStationCode": "ABJ",
+        "category": "mid"
+    },
+    {
+        "name": "Albuquerque International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Albuquerque",
+        "iataStationCode": "ABQ",
+        "category": "major"
+    },
+    {
+        "name": "Abuja International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Abuja",
+        "iataStationCode": "ABV",
+        "category": "major"
+    },
+    {
+        "name": "General Juan N Alvarez International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Acapulco",
+        "iataStationCode": "ACA",
+        "category": "major"
+    },
+    {
+        "name": "Kotoka International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "GH",
+        "cityName": "Accra",
+        "iataStationCode": "ACC",
+        "category": "major"
+    },
+    {
+        "name": "Arcata Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Arcata\/Eureka",
+        "iataStationCode": "ACV",
+        "category": "mid"
+    },
+    {
+        "name": "Sakirpasa Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TR",
+        "cityName": "Adana",
+        "iataStationCode": "ADA",
+        "category": "major"
+    },
+    {
+        "name": "Bole International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ET",
+        "cityName": "Addis Ababa",
+        "iataStationCode": "ADD",
+        "category": "mid"
+    },
+    {
+        "name": "Aden International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "YE",
+        "cityName": "Aden",
+        "iataStationCode": "ADE",
+        "category": "mid"
+    },
+    {
+        "name": "Adelaide International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Adelaide",
+        "iataStationCode": "ADL",
+        "category": "mid"
+    },
+    {
+        "name": "Kodiak Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Kodiak",
+        "iataStationCode": "ADQ",
+        "category": "mid"
+    },
+    {
+        "name": "Aguascalientes Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Aguascalientes",
+        "iataStationCode": "AGU",
+        "category": "mid"
+    },
+    {
+        "name": "Auckland International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NZ",
+        "cityName": "Auckland",
+        "iataStationCode": "AKL",
+        "category": "major"
+    },
+    {
+        "name": "Alma Ata Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KZ",
+        "cityName": "Almaty",
+        "iataStationCode": "ALA",
+        "category": "major"
+    },
+    {
+        "name": "Houari Boumediene Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "DZ",
+        "cityName": "Algiers",
+        "iataStationCode": "ALG",
+        "category": "major"
+    },
+    {
+        "name": "Albenga Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Albenga",
+        "iataStationCode": "ALL",
+        "category": "mid"
+    },
+    {
+        "name": "Aleppo International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "SY",
+        "cityName": "Aleppo",
+        "iataStationCode": "ALP",
+        "category": "major"
+    },
+    {
+        "name": "Amarillo International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Amarillo",
+        "iataStationCode": "AMA",
+        "category": "major"
+    },
+    {
+        "name": "Sardar Vallabhbhai Patel International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Ahmedabad",
+        "iataStationCode": "AMD",
+        "category": "mid"
+    },
+    {
+        "name": "Queen Alia International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JO",
+        "cityName": "Amman",
+        "iataStationCode": "AMM",
+        "category": "major"
+    },
+    {
+        "name": "Anchorage International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Anchorage",
+        "iataStationCode": "ANC",
+        "category": "major"
+    },
+    {
+        "name": "Cerro Moreno International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Antofagasta",
+        "iataStationCode": "ANF",
+        "category": "mid"
+    },
+    {
+        "name": "V C Bird International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "AG",
+        "cityName": "St. George",
+        "iataStationCode": "ANU",
+        "category": "mid"
+    },
+    {
+        "name": "Faleolo Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "WS",
+        "cityName": "Apia",
+        "iataStationCode": "APW",
+        "category": "mid"
+    },
+    {
+        "name": "Chacalluta Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Arica",
+        "iataStationCode": "ARI",
+        "category": "mid"
+    },
+    {
+        "name": "Ashkhabad Northwest Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TM",
+        "cityName": "Ashgabat",
+        "iataStationCode": "ASB",
+        "category": "mid"
+    },
+    {
+        "name": "Yohannes Iv International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ER",
+        "cityName": "Asmara",
+        "iataStationCode": "ASM",
+        "category": "mid"
+    },
+    {
+        "name": "Alice Springs Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Alice Springs",
+        "iataStationCode": "ASP",
+        "category": "mid"
+    },
+    {
+        "name": "Silvio Pettirossi International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "PY",
+        "cityName": "Asuncion",
+        "iataStationCode": "ASU",
+        "category": "mid"
+    },
+    {
+        "name": "Hartsfield-Jackson Atlanta International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Atlanta",
+        "iataStationCode": "ATL",
+        "category": "major"
+    },
+    {
+        "name": "Raja Sansi International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Amritsar",
+        "iataStationCode": "ATQ",
+        "category": "mid and military"
+    },
+    {
+        "name": "Atar Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MR",
+        "cityName": "Atar",
+        "iataStationCode": "ATR",
+        "category": "mid"
+    },
+    {
+        "name": "Asyut Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "EG",
+        "cityName": "Assiut",
+        "iataStationCode": "ATZ",
+        "category": "mid"
+    },
+    {
+        "name": "Austin-Bergstrom International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Austin",
+        "iataStationCode": "AUS",
+        "category": "major"
+    },
+    {
+        "name": "Ahvaz Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Ahwaz",
+        "iataStationCode": "AWZ",
+        "category": "mid"
+    },
+    {
+        "name": "Antalya Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TR",
+        "cityName": "Antalya",
+        "iataStationCode": "AYT",
+        "category": "major"
+    },
+    {
+        "name": "Bahrain International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "BH",
+        "cityName": "Manama",
+        "iataStationCode": "BAH",
+        "category": "major"
+    },
+    {
+        "name": "Ernesto Cortissoz Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CO",
+        "cityName": "Barranquilla",
+        "iataStationCode": "BAQ",
+        "category": "mid"
+    },
+    {
+        "name": "Biju Patnaik Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Bhubaneswar",
+        "iataStationCode": "BBI",
+        "category": "mid"
+    },
+    {
+        "name": "Aeroportul National Bucuresti-Baneasa",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RO",
+        "cityName": "Bucharest",
+        "iataStationCode": "BBU",
+        "category": "mid"
+    },
+    {
+        "name": "Bermuda International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "BM",
+        "cityName": "Hamilton",
+        "iataStationCode": "BDA",
+        "category": "mid"
+    },
+    {
+        "name": "Bradley International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Hartford",
+        "iataStationCode": "BDL",
+        "category": "major"
+    },
+    {
+        "name": "Surcin Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RS",
+        "cityName": "Belgrad",
+        "iataStationCode": "BEG",
+        "category": "major"
+    },
+    {
+        "name": "Bethel Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Bethel",
+        "iataStationCode": "BET",
+        "category": "mid"
+    },
+    {
+        "name": "Beirut International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "LB",
+        "cityName": "Beirut",
+        "iataStationCode": "BEY",
+        "category": "major"
+    },
+    {
+        "name": "Aldergrove Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Belfast",
+        "iataStationCode": "BFS",
+        "category": "major"
+    },
+    {
+        "name": "Palonegro Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CO",
+        "cityName": "Bucaramanga",
+        "iataStationCode": "BGA",
+        "category": "mid"
+    },
+    {
+        "name": "Grantley Adams International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "BB",
+        "cityName": "Bridgetown",
+        "iataStationCode": "BGI",
+        "category": "mid"
+    },
+    {
+        "name": "Orio Al Serio Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Bergamo",
+        "iataStationCode": "BGY",
+        "category": "major"
+    },
+    {
+        "name": "Birmingham Int'l Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Birmingham",
+        "iataStationCode": "BHM",
+        "category": "major"
+    },
+    {
+        "name": "Bairagarh Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Bhopal",
+        "iataStationCode": "BHO",
+        "category": "mid"
+    },
+    {
+        "name": "Broken Hill Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Broken Hill",
+        "iataStationCode": "BHQ",
+        "category": "mid"
+    },
+    {
+        "name": "Logan International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Billings",
+        "iataStationCode": "BIL",
+        "category": "major"
+    },
+    {
+        "name": "Bismarck Municipal Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Bismarck",
+        "iataStationCode": "BIS",
+        "category": "mid"
+    },
+    {
+        "name": "Yundum International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "GM",
+        "cityName": "Banjul",
+        "iataStationCode": "BJL",
+        "category": "mid"
+    },
+    {
+        "name": "Bujumbura Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "BI",
+        "cityName": "Bujumbura",
+        "iataStationCode": "BJM",
+        "category": "mid"
+    },
+    {
+        "name": "Beijing Capital Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Beijing",
+        "iataStationCode": "PEK",
+        "category": "major"
+    },
+    {
+        "name": "Silao Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Silao",
+        "iataStationCode": "BJX",
+        "category": "mid"
+    },
+    {
+        "name": "Kota Kinabalu International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MY",
+        "cityName": "Kota Kinabalu",
+        "iataStationCode": "BKI",
+        "category": "mid"
+    },
+    {
+        "name": "Bamako Senou Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ML",
+        "cityName": "Senou",
+        "iataStationCode": "BKO",
+        "category": "mid"
+    },
+    {
+        "name": "Bengaluru International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Bangalore",
+        "iataStationCode": "BLR",
+        "category": "major"
+    },
+    {
+        "name": "Chileka International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MW",
+        "cityName": "Blantyre",
+        "iataStationCode": "BLZ",
+        "category": "mid"
+    },
+    {
+        "name": "Broome International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Broome",
+        "iataStationCode": "BME",
+        "category": "mid"
+    },
+    {
+        "name": "Nashville International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Nashville",
+        "iataStationCode": "BNA",
+        "category": "major"
+    },
+    {
+        "name": "Bandar Abbass International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Bandar Abbas",
+        "iataStationCode": "BND",
+        "category": "mid"
+    },
+    {
+        "name": "Brisbane International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Brisbane",
+        "iataStationCode": "BNE",
+        "category": "major"
+    },
+    {
+        "name": "Benin Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Benin",
+        "iataStationCode": "BNI",
+        "category": "mid"
+    },
+    {
+        "name": "Eldorado International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CO",
+        "cityName": "Bogota",
+        "iataStationCode": "BOG",
+        "category": "major"
+    },
+    {
+        "name": "Boise Air Terminal",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Boise",
+        "iataStationCode": "BOI",
+        "category": "major"
+    },
+    {
+        "name": "Bourgas Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "BG",
+        "cityName": "Burgas",
+        "iataStationCode": "BOJ",
+        "category": "major"
+    },
+    {
+        "name": "Chhatrapati Shivaji International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Mumbai",
+        "iataStationCode": "BOM",
+        "category": "major"
+    },
+    {
+        "name": "Gen E L Logan International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Boston",
+        "iataStationCode": "BOS",
+        "category": "major"
+    },
+    {
+        "name": "San Carlos de Bariloche Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "San Carlos de Bariloche",
+        "iataStationCode": "BRC",
+        "category": "mid"
+    },
+    {
+        "name": "Bremen Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Bremen",
+        "iataStationCode": "BRE",
+        "category": "major"
+    },
+    {
+        "name": "Barquisimeto Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "VE",
+        "cityName": "Barquisimeto",
+        "iataStationCode": "BRM",
+        "category": "mid"
+    },
+    {
+        "name": "Brownsville-South Padre Island International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Brownsville",
+        "iataStationCode": "BRO",
+        "category": "mid"
+    },
+    {
+        "name": "Bristol International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Bristol",
+        "iataStationCode": "BRS",
+        "category": "major"
+    },
+    {
+        "name": "Wiley Post Will Rogers Memorial Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Barrow",
+        "iataStationCode": "BRW",
+        "category": "mid"
+    },
+    {
+        "name": "Basrah International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IQ",
+        "cityName": "Basrah",
+        "iataStationCode": "BSR",
+        "category": "major"
+    },
+    {
+        "name": "Baton Rouge Metro Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Baton Rouge",
+        "iataStationCode": "BTR",
+        "category": "major"
+    },
+    {
+        "name": "Bratislava Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "SK",
+        "cityName": "Bratislava",
+        "iataStationCode": "BTS",
+        "category": "major"
+    },
+    {
+        "name": "Burlington International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Burlington",
+        "iataStationCode": "BTV",
+        "category": "mid"
+    },
+    {
+        "name": "Ferihegy Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "HU",
+        "cityName": "Budapest",
+        "iataStationCode": "BUD",
+        "category": "major"
+    },
+    {
+        "name": "Greater Buffalo International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Buffalo",
+        "iataStationCode": "BUF",
+        "category": "major"
+    },
+    {
+        "name": "Bulawayo Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZW",
+        "cityName": "Bulawayo",
+        "iataStationCode": "BUQ",
+        "category": "mid"
+    },
+    {
+        "name": "Baltimore-Washington International Thurgood Marshall Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Baltimore",
+        "iataStationCode": "BWI",
+        "category": "major"
+    },
+    {
+        "name": "Brunei International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "BN",
+        "cityName": "Bandar Seri Begawan",
+        "iataStationCode": "BWN",
+        "category": "major"
+    },
+    {
+        "name": "Bouake Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CI",
+        "cityName": "",
+        "iataStationCode": "BYK",
+        "category": "mid"
+    },
+    {
+        "name": "Philip S W Goldson International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "BZ",
+        "cityName": "Belize cityName",
+        "iataStationCode": "BZE",
+        "category": "major"
+    },
+    {
+        "name": "Columbia Metro Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Columbia",
+        "iataStationCode": "CAE",
+        "category": "major"
+    },
+    {
+        "name": "Cairo International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "EG",
+        "cityName": "Cairo",
+        "iataStationCode": "CAI",
+        "category": "major"
+    },
+    {
+        "name": "Baiyun Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Guangzhou",
+        "iataStationCode": "CAN",
+        "category": "major"
+    },
+    {
+        "name": "Anfa Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MA",
+        "cityName": "Casablanca",
+        "iataStationCode": "CAS",
+        "category": "mid"
+    },
+    {
+        "name": "Canberra International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Canberra",
+        "iataStationCode": "CBR",
+        "category": "major"
+    },
+    {
+        "name": "Calicut International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Calicut",
+        "iataStationCode": "CCJ",
+        "category": "major"
+    },
+    {
+        "name": "Cocos Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CC",
+        "cityName": "Cocos (Keeling) Islands",
+        "iataStationCode": "CCK",
+        "category": "mid"
+    },
+    {
+        "name": "Carriel Sur International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Concepcion",
+        "iataStationCode": "CCP",
+        "category": "mid"
+    },
+    {
+        "name": "Simon Bolivar International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "VE",
+        "cityName": "Caracas",
+        "iataStationCode": "CCS",
+        "category": "mid"
+    },
+    {
+        "name": "Netaji Subhash Chandra Bose International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Kolkata",
+        "iataStationCode": "CCU",
+        "category": "major"
+    },
+    {
+        "name": "Kerkira Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GR",
+        "cityName": "Kerkyra Island",
+        "iataStationCode": "CFU",
+        "category": "mid"
+    },
+    {
+        "name": "Chittagong Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "BD",
+        "cityName": "Chittagong",
+        "iataStationCode": "CGP",
+        "category": "mid"
+    },
+    {
+        "name": "Dafang Shen Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Changchun",
+        "iataStationCode": "CGQ",
+        "category": "major"
+    },
+    {
+        "name": "Christchurch International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NZ",
+        "cityName": "Christchurch",
+        "iataStationCode": "CHC",
+        "category": "major"
+    },
+    {
+        "name": "Charleston International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Charleston",
+        "iataStationCode": "CHS",
+        "category": "major and military"
+    },
+    {
+        "name": "Peelamedu Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Coimbatore",
+        "iataStationCode": "CJB",
+        "category": "mid"
+    },
+    {
+        "name": "Ciudad Juarez International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Ciudad Juarez",
+        "iataStationCode": "CJS",
+        "category": "mid"
+    },
+    {
+        "name": "Chongqing Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Chongqing",
+        "iataStationCode": "CKG",
+        "category": "major"
+    },
+    {
+        "name": "Conakry Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "GN",
+        "cityName": "Conakry",
+        "iataStationCode": "CKY",
+        "category": "mid"
+    },
+    {
+        "name": "Hopkins International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Cleveland",
+        "iataStationCode": "CLE",
+        "category": "major"
+    },
+    {
+        "name": "Someseni Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RO",
+        "cityName": "Cluj-Napoca",
+        "iataStationCode": "CLJ",
+        "category": "mid"
+    },
+    {
+        "name": "Alfonso Bonilla Aragon International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CO",
+        "cityName": "Cali",
+        "iataStationCode": "CLO",
+        "category": "mid"
+    },
+    {
+        "name": "Douglas International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Charlotte",
+        "iataStationCode": "CLT",
+        "category": "major"
+    },
+    {
+        "name": "Katunayake International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "LK",
+        "cityName": "Colombo",
+        "iataStationCode": "CMB",
+        "category": "major"
+    },
+    {
+        "name": "Port Columbus International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Columbus",
+        "iataStationCode": "CMH",
+        "category": "major"
+    },
+    {
+        "name": "Mohamed V Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MA",
+        "cityName": "Casablanca",
+        "iataStationCode": "CMN",
+        "category": "major"
+    },
+    {
+        "name": "Ignacio Agramonte Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CU",
+        "cityName": "Camaguey",
+        "iataStationCode": "CMW",
+        "category": "mid"
+    },
+    {
+        "name": "Cairns International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Cairns",
+        "iataStationCode": "CNS",
+        "category": "mid"
+    },
+    {
+        "name": "Chiang Mai International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TH",
+        "cityName": "Chiang Mai",
+        "iataStationCode": "CNX",
+        "category": "major"
+    },
+    {
+        "name": "Cotonou Cadjehon Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "BJ",
+        "cityName": "Cotonou",
+        "iataStationCode": "COO",
+        "category": "mid"
+    },
+    {
+        "name": "Ingeniero Ambrosio L.V. Taravella International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "Cordoba",
+        "iataStationCode": "COR",
+        "category": "mid"
+    },
+    {
+        "name": "cityName of Colorado Springs Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Colorado Springs",
+        "iataStationCode": "COS",
+        "category": "major"
+    },
+    {
+        "name": "Ignacio Alberto Acuna Ongay Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Campeche",
+        "iataStationCode": "CPE",
+        "category": "mid"
+    },
+    {
+        "name": "Natrona County International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Casper",
+        "iataStationCode": "CPR",
+        "category": "major"
+    },
+    {
+        "name": "Cape Town International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZA",
+        "cityName": "Cape Town",
+        "iataStationCode": "CPT",
+        "category": "major"
+    },
+    {
+        "name": "Clark Field Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PH",
+        "cityName": "Angeles cityName",
+        "iataStationCode": "CRK",
+        "category": "major"
+    },
+    {
+        "name": "Corpus Christi International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Corpus Christi",
+        "iataStationCode": "CRP",
+        "category": "major"
+    },
+    {
+        "name": "Yeager Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Charleston",
+        "iataStationCode": "CRW",
+        "category": "major and military"
+    },
+    {
+        "name": "Huanghua Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Changsha",
+        "iataStationCode": "CSX",
+        "category": "major"
+    },
+    {
+        "name": "Catania Fontanarossa Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Catania",
+        "iataStationCode": "CTA",
+        "category": "major"
+    },
+    {
+        "name": "Rafael Nunez Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CO",
+        "cityName": "Cartagena",
+        "iataStationCode": "CTG",
+        "category": "mid"
+    },
+    {
+        "name": "Chetumal International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Chetumal",
+        "iataStationCode": "CTM",
+        "category": "mid"
+    },
+    {
+        "name": "Chengdushuang Liu Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Chengdu",
+        "iataStationCode": "CTU",
+        "category": "major"
+    },
+    {
+        "name": "Cancun Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Cancun",
+        "iataStationCode": "CUN",
+        "category": "major"
+    },
+    {
+        "name": "Hato Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "AN",
+        "cityName": "Willemstad",
+        "iataStationCode": "CUR",
+        "category": "mid"
+    },
+    {
+        "name": "General R F Villalobos International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Chihuahua",
+        "iataStationCode": "CUU",
+        "category": "mid"
+    },
+    {
+        "name": "Velazco Astete Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "PE",
+        "cityName": "Cusco",
+        "iataStationCode": "CUZ",
+        "category": "major"
+    },
+    {
+        "name": "Greater Cincinnati International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Cincinnati",
+        "iataStationCode": "CVG",
+        "category": "major"
+    },
+    {
+        "name": "Cardiff International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Cardiff",
+        "iataStationCode": "CWL",
+        "category": "major"
+    },
+    {
+        "name": "Gerrard Smith Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "KY",
+        "cityName": "Cayman Brac",
+        "iataStationCode": "CYB",
+        "category": "mid"
+    },
+    {
+        "name": "Cozumel International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Cozumel",
+        "iataStationCode": "CZM",
+        "category": "mid"
+    },
+    {
+        "name": "Zia International Airport Dhaka",
+        "regionCode": "AS",
+        "Iso2CountryCode": "BD",
+        "cityName": "Dhaka",
+        "iataStationCode": "DAC",
+        "category": "mid"
+    },
+    {
+        "name": "Da Nang Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "VN",
+        "cityName": "Da Nang",
+        "iataStationCode": "DAD",
+        "category": "major"
+    },
+    {
+        "name": "Dallas Love Field",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Dallas",
+        "iataStationCode": "DAL",
+        "category": "major"
+    },
+    {
+        "name": "Damascus International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "SY",
+        "cityName": "Damascus",
+        "iataStationCode": "DAM",
+        "category": "major"
+    },
+    {
+        "name": "Dar Es Salaam Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "TZ",
+        "cityName": "Dar es Salaam",
+        "iataStationCode": "DAR",
+        "category": "mid"
+    },
+    {
+        "name": "Enrique Malek International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "PA",
+        "cityName": "David",
+        "iataStationCode": "DAV",
+        "category": "mid"
+    },
+    {
+        "name": "James M Cox Dayton International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Dayton",
+        "iataStationCode": "DAY",
+        "category": "major"
+    },
+    {
+        "name": "Dubbo Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Dubbo",
+        "iataStationCode": "DBO",
+        "category": "mid"
+    },
+    {
+        "name": "Washington National Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Washington",
+        "iataStationCode": "DCA",
+        "category": "major"
+    },
+    {
+        "name": "Indira Gandhi International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "New Delhi",
+        "iataStationCode": "DEL",
+        "category": "major"
+    },
+    {
+        "name": "Denver International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Denver",
+        "iataStationCode": "DEN",
+        "category": "major"
+    },
+    {
+        "name": "Detroit cityName Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Detroit",
+        "iataStationCode": "DET",
+        "category": "mid"
+    },
+    {
+        "name": "Dallas-Fort Worth International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Dallas-Fort Worth",
+        "iataStationCode": "DFW",
+        "category": "major"
+    },
+    {
+        "name": "Durango Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Durango",
+        "iataStationCode": "DGO",
+        "category": "mid"
+    },
+    {
+        "name": "Presidente Nicolau Lobato International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Dili-Timor Island",
+        "iataStationCode": "DIL",
+        "category": "mid"
+    },
+    {
+        "name": "Aba Tenna Dejazmatch Yilma Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ET",
+        "cityName": "Dire Dawa",
+        "iataStationCode": "DIR",
+        "category": "mid"
+    },
+    {
+        "name": "Domodedovo Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Moscow",
+        "iataStationCode": "DME",
+        "category": "major"
+    },
+    {
+        "name": "Don Muang International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TH",
+        "cityName": "Bangkok",
+        "iataStationCode": "DMK",
+        "category": "major"
+    },
+    {
+        "name": "Voloskoye Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Dnipropetrovsk",
+        "iataStationCode": "DNK",
+        "category": "mid"
+    },
+    {
+        "name": "Donetsk Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Donetsk",
+        "iataStationCode": "DOK",
+        "category": "major"
+    },
+    {
+        "name": "Bali International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Denpasar-Bali Island",
+        "iataStationCode": "DPS",
+        "category": "major"
+    },
+    {
+        "name": "Darwin International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Darwin",
+        "iataStationCode": "DRW",
+        "category": "major and military"
+    },
+    {
+        "name": "Des Moines International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Des Moines",
+        "iataStationCode": "DSM",
+        "category": "major"
+    },
+    {
+        "name": "Detroit Metro Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Detroit",
+        "iataStationCode": "DTW",
+        "category": "major"
+    },
+    {
+        "name": "Dublin Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IE",
+        "cityName": "Dublin",
+        "iataStationCode": "DUB",
+        "category": "major"
+    },
+    {
+        "name": "Dunedin Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NZ",
+        "cityName": "Dunedin",
+        "iataStationCode": "DUD",
+        "category": "mid"
+    },
+    {
+        "name": "Louis Botha Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZA",
+        "cityName": "Durban",
+        "iataStationCode": "DUR",
+        "category": "mid"
+    },
+    {
+        "name": "Dusseldorf International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Duesseldorf",
+        "iataStationCode": "DUS",
+        "category": "major"
+    },
+    {
+        "name": "Dubai International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "AE",
+        "cityName": "Dubai",
+        "iataStationCode": "DXB",
+        "category": "major"
+    },
+    {
+        "name": "Dzaoudzi Pamanzi Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "YT",
+        "cityName": "Dzaoudzi",
+        "iataStationCode": "DZA",
+        "category": "mid"
+    },
+    {
+        "name": "Santa Bernardina International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "UY",
+        "cityName": "Durazno",
+        "iataStationCode": "DZO",
+        "category": "mid"
+    },
+    {
+        "name": "Entebbe International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "UG",
+        "cityName": "Kampala",
+        "iataStationCode": "EBB",
+        "category": "mid"
+    },
+    {
+        "name": "Edinburgh International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Edinburgh",
+        "iataStationCode": "EDI",
+        "category": "major"
+    },
+    {
+        "name": "Beef Island-Roadtown Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "VG",
+        "cityName": "Road Town",
+        "iataStationCode": "EIS",
+        "category": "mid"
+    },
+    {
+        "name": "Elko Municipal Airport-J C Harris Field",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Elko",
+        "iataStationCode": "EKO",
+        "category": "mid"
+    },
+    {
+        "name": "El Paso International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "El Paso",
+        "iataStationCode": "ELP",
+        "category": "mid"
+    },
+    {
+        "name": "Esenboga Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TR",
+        "cityName": "Ankara",
+        "iataStationCode": "ESB",
+        "category": "major"
+    },
+    {
+        "name": "Ensenada Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "",
+        "iataStationCode": "ESE",
+        "category": "mid"
+    },
+    {
+        "name": "Yerevan-Parakar Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "AM",
+        "cityName": "Yerevan",
+        "iataStationCode": "EVN",
+        "category": "major"
+    },
+    {
+        "name": "Newark International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Newark",
+        "iataStationCode": "EWR",
+        "category": "major"
+    },
+    {
+        "name": "Ministro Pistarini International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "Ezeiza",
+        "iataStationCode": "EZE",
+        "category": "major"
+    },
+    {
+        "name": "Vagar Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FO",
+        "cityName": "Vagar",
+        "iataStationCode": "FAE",
+        "category": "mid"
+    },
+    {
+        "name": "Fairbanks International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Fairbanks",
+        "iataStationCode": "FAI",
+        "category": "major"
+    },
+    {
+        "name": "Hector International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Fargo",
+        "iataStationCode": "FAR",
+        "category": "mid and military"
+    },
+    {
+        "name": "Fresno Yosemite International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Fresno",
+        "iataStationCode": "FAT",
+        "category": "mid"
+    },
+    {
+        "name": "Lubumbashi Luano International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CD",
+        "cityName": "Lubumbashi",
+        "iataStationCode": "FBM",
+        "category": "mid"
+    },
+    {
+        "name": "Saiss Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MA",
+        "cityName": "Fes",
+        "iataStationCode": "FEZ",
+        "category": "mid"
+    },
+    {
+        "name": "Kinshasa N Djili International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CD",
+        "cityName": "Kinshasa",
+        "iataStationCode": "FIH",
+        "category": "mid"
+    },
+    {
+        "name": "Kisangani Bangoka International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CD",
+        "cityName": "Kisangani",
+        "iataStationCode": "FKI",
+        "category": "mid"
+    },
+    {
+        "name": "Flagstaff Pulliam Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Flagstaff",
+        "iataStationCode": "FLG",
+        "category": "mid"
+    },
+    {
+        "name": "Fort Lauderdale Hollywood International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Fort Lauderdale",
+        "iataStationCode": "FLL",
+        "category": "major"
+    },
+    {
+        "name": "Freetown Lungi Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "SL",
+        "cityName": "Freetown",
+        "iataStationCode": "FNA",
+        "category": "mid"
+    },
+    {
+        "name": "Sunan Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KP",
+        "cityName": "Pyongyang",
+        "iataStationCode": "FNJ",
+        "category": "mid"
+    },
+    {
+        "name": "Fuzhou Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Fuzhou",
+        "iataStationCode": "FOC",
+        "category": "mid"
+    },
+    {
+        "name": "Santa Elena Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "GT",
+        "cityName": "San Benito",
+        "iataStationCode": "FRS",
+        "category": "mid"
+    },
+    {
+        "name": "Vasilyevka Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KG",
+        "cityName": "Bishkek",
+        "iataStationCode": "FRU",
+        "category": "major"
+    },
+    {
+        "name": "Sioux Falls Regional Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Sioux Falls",
+        "iataStationCode": "FSD",
+        "category": "mid"
+    },
+    {
+        "name": "Fort Worth Meacham International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Fort Worth",
+        "iataStationCode": "FTW",
+        "category": "major"
+    },
+    {
+        "name": "Lokpriya Gopinath Bordoloi International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Guwahati",
+        "iataStationCode": "GAU",
+        "category": "mid"
+    },
+    {
+        "name": "Sir Seretse Khama International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "BW",
+        "cityName": "Gaborone",
+        "iataStationCode": "GBE",
+        "category": "mid"
+    },
+    {
+        "name": "Don Miguel Hidalgo International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Guadalajara",
+        "iataStationCode": "GDL",
+        "category": "major"
+    },
+    {
+        "name": "Rebiechowo Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PL",
+        "cityName": "Gda",
+        "iataStationCode": "GDN",
+        "category": "major"
+    },
+    {
+        "name": "Grand Turk International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "TC",
+        "cityName": "Cockburn Town",
+        "iataStationCode": "GDT",
+        "category": "mid"
+    },
+    {
+        "name": "Spokane International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Spokane",
+        "iataStationCode": "GEG",
+        "category": "major"
+    },
+    {
+        "name": "Exuma International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "BS",
+        "cityName": "George Town",
+        "iataStationCode": "GGT",
+        "category": "mid"
+    },
+    {
+        "name": "Gibraltar Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GI",
+        "cityName": "Gibraltar",
+        "iataStationCode": "GIB",
+        "category": "mid"
+    },
+    {
+        "name": "Glasgow International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Glasgow",
+        "iataStationCode": "GLA",
+        "category": "major"
+    },
+    {
+        "name": "Scholes Field Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Galveston",
+        "iataStationCode": "GLS",
+        "category": "mid"
+    },
+    {
+        "name": "Point Salines International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "GD",
+        "cityName": "Saint George's",
+        "iataStationCode": "GND",
+        "category": "mid"
+    },
+    {
+        "name": "Strigino Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Nizhny Novgorod",
+        "iataStationCode": "GOJ",
+        "category": "mid"
+    },
+    {
+        "name": "Goma International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CD",
+        "cityName": "Goma",
+        "iataStationCode": "GOM",
+        "category": "mid"
+    },
+    {
+        "name": "Garoua Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CM",
+        "cityName": "Garoua",
+        "iataStationCode": "GOU",
+        "category": "mid"
+    },
+    {
+        "name": "Gerald R. Ford International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Grand Rapids",
+        "iataStationCode": "GRR",
+        "category": "mid"
+    },
+    {
+        "name": "Triad International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Greensboro",
+        "iataStationCode": "GSO",
+        "category": "major"
+    },
+    {
+        "name": "Great Falls International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Great Falls",
+        "iataStationCode": "GTF",
+        "category": "mid"
+    },
+    {
+        "name": "La Aurora Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "GT",
+        "cityName": "Guatemala cityName",
+        "iataStationCode": "GUA",
+        "category": "mid"
+    },
+    {
+        "name": "Antonio B Won Pat International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "GU",
+        "cityName": "Hagatna, Guam International Airport",
+        "iataStationCode": "GUM",
+        "category": "major"
+    },
+    {
+        "name": "Gwalior Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Gwalior",
+        "iataStationCode": "GWL",
+        "category": "mid and military"
+    },
+    {
+        "name": "Simon Bolivar International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "EC",
+        "cityName": "Guayaquil",
+        "iataStationCode": "GYE",
+        "category": "mid"
+    },
+    {
+        "name": "General Jose Maria Yanez in Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Guaymas",
+        "iataStationCode": "GYM",
+        "category": "mid"
+    },
+    {
+        "name": "Gary\/Chicago International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Gary",
+        "iataStationCode": "GYY",
+        "category": "mid"
+    },
+    {
+        "name": "Gaziantep Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TR",
+        "cityName": "Gaziantep",
+        "iataStationCode": "GZT",
+        "category": "major"
+    },
+    {
+        "name": "Moroni Hahaia Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "KM",
+        "cityName": "Moroni",
+        "iataStationCode": "HAH",
+        "category": "mid"
+    },
+    {
+        "name": "Hamburg Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Hamburg",
+        "iataStationCode": "HAM",
+        "category": "major"
+    },
+    {
+        "name": "Noi Bai Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "VN",
+        "cityName": "Hanoi",
+        "iataStationCode": "HAN",
+        "category": "major"
+    },
+    {
+        "name": "Jose Marti International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CU",
+        "cityName": "Havana",
+        "iataStationCode": "HAV",
+        "category": "major"
+    },
+    {
+        "name": "Hobart International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Hobart",
+        "iataStationCode": "HBA",
+        "category": "mid"
+    },
+    {
+        "name": "Borg El Arab International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "EG",
+        "cityName": "Alexandria",
+        "iataStationCode": "HBE",
+        "category": "mid"
+    },
+    {
+        "name": "Hubli Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Hubli",
+        "iataStationCode": "HBX",
+        "category": "mid"
+    },
+    {
+        "name": "Hat Yai International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TH",
+        "cityName": "Hat Yai",
+        "iataStationCode": "HDY",
+        "category": "mid"
+    },
+    {
+        "name": "Huhehaote Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Hohhot",
+        "iataStationCode": "HET",
+        "category": "mid"
+    },
+    {
+        "name": "Hefei-Luogang Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Hefei",
+        "iataStationCode": "HFE",
+        "category": "mid"
+    },
+    {
+        "name": "Henderson Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "SB",
+        "cityName": "Honiara",
+        "iataStationCode": "HIR",
+        "category": "mid"
+    },
+    {
+        "name": "Helena Regional Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Helena",
+        "iataStationCode": "HLN",
+        "category": "mid"
+    },
+    {
+        "name": "Hamilton Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NZ",
+        "cityName": "Hamilton",
+        "iataStationCode": "HLZ",
+        "category": "mid"
+    },
+    {
+        "name": "Gen Ignacio P Garcia International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Hermosillo",
+        "iataStationCode": "HMO",
+        "category": "mid"
+    },
+    {
+        "name": "Hodeidah Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "YE",
+        "cityName": "Hodeida",
+        "iataStationCode": "HOD",
+        "category": "mid"
+    },
+    {
+        "name": "Hurghada Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "EG",
+        "cityName": "Hurghada",
+        "iataStationCode": "HRG",
+        "category": "major"
+    },
+    {
+        "name": "Kharkov Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Kharkiv",
+        "iataStationCode": "HRK",
+        "category": "major"
+    },
+    {
+        "name": "Huntsville International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Huntsville",
+        "iataStationCode": "HSV",
+        "category": "major"
+    },
+    {
+        "name": "Hyderabad International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Hyderabad",
+        "iataStationCode": "HYD",
+        "category": "major"
+    },
+    {
+        "name": "Dulles International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Washington",
+        "iataStationCode": "IAD",
+        "category": "major"
+    },
+    {
+        "name": "George Bush InterregionCodeal Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Houston",
+        "iataStationCode": "IAH",
+        "category": "major"
+    },
+    {
+        "name": "Ibadan Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Ibadan",
+        "iataStationCode": "IBA",
+        "category": "mid"
+    },
+    {
+        "name": "Wichita Mid-regionCode Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Wichita",
+        "iataStationCode": "ICT",
+        "category": "major"
+    },
+    {
+        "name": "Devi Ahilyabai Holkar International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Indore",
+        "iataStationCode": "IDR",
+        "category": "mid"
+    },
+    {
+        "name": "Zhulyany Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Kiev",
+        "iataStationCode": "IEV",
+        "category": "mid"
+    },
+    {
+        "name": "Irkutsk S.E. Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Irkutsk",
+        "iataStationCode": "IKT",
+        "category": "mid and military"
+    },
+    {
+        "name": "Wilmington International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Wilmington",
+        "iataStationCode": "ILM",
+        "category": "mid"
+    },
+    {
+        "name": "Ilorin Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Ilorin",
+        "iataStationCode": "ILR",
+        "category": "mid"
+    },
+    {
+        "name": "Indianapolis International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Indianapolis",
+        "iataStationCode": "IND",
+        "category": "major"
+    },
+    {
+        "name": "Falls International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "International Falls",
+        "iataStationCode": "INL",
+        "category": "mid"
+    },
+    {
+        "name": "Nauru International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NR",
+        "cityName": "Yaren District",
+        "iataStationCode": "INU",
+        "category": "mid"
+    },
+    {
+        "name": "Inverness Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Inverness",
+        "iataStationCode": "INV",
+        "category": "mid"
+    },
+    {
+        "name": "Mataveri International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Isla De Pascua",
+        "iataStationCode": "IPC",
+        "category": "mid"
+    },
+    {
+        "name": "Imperial County Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Imperial",
+        "iataStationCode": "IPL",
+        "category": "mid"
+    },
+    {
+        "name": "Gandhinagar Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Nashik",
+        "iataStationCode": "ISK",
+        "category": "mid"
+    },
+    {
+        "name": "Ataturk Hava Limani Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "TR",
+        "cityName": "Istanbul",
+        "iataStationCode": "IST",
+        "category": "major"
+    },
+    {
+        "name": "Hilo International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Hilo",
+        "iataStationCode": "ITO",
+        "category": "mid"
+    },
+    {
+        "name": "Chandigarh Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Chandigarh",
+        "iataStationCode": "IXC",
+        "category": "major and military"
+    },
+    {
+        "name": "Jammu Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Jammu",
+        "iataStationCode": "IXJ",
+        "category": "mid"
+    },
+    {
+        "name": "Madurai Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Madurai",
+        "iataStationCode": "IXM",
+        "category": "mid"
+    },
+    {
+        "name": "Aurangabad Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Aurangabad",
+        "iataStationCode": "IXU",
+        "category": "mid"
+    },
+    {
+        "name": "Jackson International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Jackson",
+        "iataStationCode": "JAN",
+        "category": "major"
+    },
+    {
+        "name": "Jacksonville International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Jacksonville",
+        "iataStationCode": "JAX",
+        "category": "major"
+    },
+    {
+        "name": "Jodhpur Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Jodhpur",
+        "iataStationCode": "JDH",
+        "category": "major and military"
+    },
+    {
+        "name": "King Abdul Aziz International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "SA",
+        "cityName": "Jeddah",
+        "iataStationCode": "JED",
+        "category": "major"
+    },
+    {
+        "name": "John F Kennedy Int'l Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "New York",
+        "iataStationCode": "JFK",
+        "category": "major"
+    },
+    {
+        "name": "Jabalpur Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "",
+        "iataStationCode": "JLR",
+        "category": "mid"
+    },
+    {
+        "name": "OR Tambo International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZA",
+        "cityName": "Johannesburg",
+        "iataStationCode": "JNB",
+        "category": "major"
+    },
+    {
+        "name": "Juneau International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Juneau",
+        "iataStationCode": "JNU",
+        "category": "mid"
+    },
+    {
+        "name": "Kilimanjaro International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "TZ",
+        "cityName": "Arusha",
+        "iataStationCode": "JRO",
+        "category": "mid"
+    },
+    {
+        "name": "Jujuy Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "San Salvador de Jujuy",
+        "iataStationCode": "JUJ",
+        "category": "mid"
+    },
+    {
+        "name": "Kuala Lumpur International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MY",
+        "cityName": "Kuala Lumpur",
+        "iataStationCode": "KUL",
+        "category": "major"
+    },
+    {
+        "name": "Kaduna Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Kaduna",
+        "iataStationCode": "KAD",
+        "category": "mid"
+    },
+    {
+        "name": "Kano Mallam Aminu International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Kano",
+        "iataStationCode": "KAN",
+        "category": "mid"
+    },
+    {
+        "name": "Borispol Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Kiev",
+        "iataStationCode": "KBP",
+        "category": "major"
+    },
+    {
+        "name": "Kuching Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MY",
+        "cityName": "Kuching",
+        "iataStationCode": "KCH",
+        "category": "mid"
+    },
+    {
+        "name": "Kananga Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CD",
+        "cityName": "Kananga",
+        "iataStationCode": "KGA",
+        "category": "mid"
+    },
+    {
+        "name": "Kigali Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "RW",
+        "cityName": "Kigali",
+        "iataStationCode": "KGL",
+        "category": "mid"
+    },
+    {
+        "name": "Kashi Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Kashgar",
+        "iataStationCode": "KHG",
+        "category": "mid"
+    },
+    {
+        "name": "Nanchang New Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Nanchang",
+        "iataStationCode": "KHN",
+        "category": "mid"
+    },
+    {
+        "name": "Norman Manley International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "JM",
+        "cityName": "Kingston",
+        "iataStationCode": "KIN",
+        "category": "major"
+    },
+    {
+        "name": "Wuchia Pa Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Kunming",
+        "iataStationCode": "KMG",
+        "category": "major"
+    },
+    {
+        "name": "Kumasi Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "GH",
+        "cityName": "Kumasi",
+        "iataStationCode": "KMS",
+        "category": "mid"
+    },
+    {
+        "name": "Vina del Mar Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Vina Del Mar",
+        "iataStationCode": "KNA",
+        "category": "mid"
+    },
+    {
+        "name": "Kanpur Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "",
+        "iataStationCode": "KNU",
+        "category": "mid"
+    },
+    {
+        "name": "Kailua-Kona International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Kailua\/Kona",
+        "iataStationCode": "KOA",
+        "category": "mid"
+    },
+    {
+        "name": "Kirkwall Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Orkney Islands",
+        "iataStationCode": "KOI",
+        "category": "mid"
+    },
+    {
+        "name": "Balice Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PL",
+        "cityName": "Krakow",
+        "iataStationCode": "KRK",
+        "category": "major"
+    },
+    {
+        "name": "Khartoum Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "SD",
+        "cityName": "Khartoum",
+        "iataStationCode": "KRT",
+        "category": "major"
+    },
+    {
+        "name": "Tribhuvan International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "NP",
+        "cityName": "Kathmandu",
+        "iataStationCode": "KTM",
+        "category": "mid"
+    },
+    {
+        "name": "Kota Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "",
+        "iataStationCode": "KTU",
+        "category": "mid"
+    },
+    {
+        "name": "Kurumoch Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Samara",
+        "iataStationCode": "KUF",
+        "category": "major"
+    },
+    {
+        "name": "Li Chia Tsun Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Gullin",
+        "iataStationCode": "KWL",
+        "category": "major"
+    },
+    {
+        "name": "Konya Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "TR",
+        "cityName": "Konya",
+        "iataStationCode": "KYA",
+        "category": "major and military"
+    },
+    {
+        "name": "Luanda 4 de Fevereiro Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "AO",
+        "cityName": "Luanda",
+        "iataStationCode": "LAD",
+        "category": "mid"
+    },
+    {
+        "name": "Laoag International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PH",
+        "cityName": "Laoag cityName",
+        "iataStationCode": "LAO",
+        "category": "mid"
+    },
+    {
+        "name": "Mccarran International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Las Vegas",
+        "iataStationCode": "LAS",
+        "category": "major"
+    },
+    {
+        "name": "Los Angeles International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Los Angeles",
+        "iataStationCode": "LAX",
+        "category": "major"
+    },
+    {
+        "name": "Leeds Bradford Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Leeds",
+        "iataStationCode": "LBA",
+        "category": "major"
+    },
+    {
+        "name": "Libreville Leon M Ba Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "GA",
+        "cityName": "Libreville",
+        "iataStationCode": "LBV",
+        "category": "mid"
+    },
+    {
+        "name": "Pulkuvo 2 Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Saint Petersburg",
+        "iataStationCode": "LED",
+        "category": "major"
+    },
+    {
+        "name": "Blue Grass Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Lexington",
+        "iataStationCode": "LEX",
+        "category": "major"
+    },
+    {
+        "name": "Lome Tokoin Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "TG",
+        "cityName": "Lome",
+        "iataStationCode": "LFW",
+        "category": "mid"
+    },
+    {
+        "name": "LaGuardia Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "New York",
+        "iataStationCode": "LGA",
+        "category": "major"
+    },
+    {
+        "name": "London Gatwick Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "London",
+        "iataStationCode": "LGW",
+        "category": "major"
+    },
+    {
+        "name": "Lahore Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Lahore",
+        "iataStationCode": "LHE",
+        "category": "mid"
+    },
+    {
+        "name": "Lihue Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Lihue",
+        "iataStationCode": "LIH",
+        "category": "mid"
+    },
+    {
+        "name": "Linate Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Milan",
+        "iataStationCode": "LIN",
+        "category": "major"
+    },
+    {
+        "name": "Adams Field Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Little Rock",
+        "iataStationCode": "LIT",
+        "category": "major"
+    },
+    {
+        "name": "Ljubljana Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "SI",
+        "cityName": "Ljubljana",
+        "iataStationCode": "LJU",
+        "category": "major"
+    },
+    {
+        "name": "Amausi International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Lucknow",
+        "iataStationCode": "LKO",
+        "category": "mid"
+    },
+    {
+        "name": "Kamuzu International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MW",
+        "cityName": "Lilongwe",
+        "iataStationCode": "LLW",
+        "category": "mid"
+    },
+    {
+        "name": "Los Mochis Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Los Mochis",
+        "iataStationCode": "LMM",
+        "category": "mid"
+    },
+    {
+        "name": "Lagos Murtala Muhammed Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Lagos",
+        "iataStationCode": "LOS",
+        "category": "major"
+    },
+    {
+        "name": "Monclova Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "",
+        "iataStationCode": "LOV",
+        "category": "mid"
+    },
+    {
+        "name": "El Alto International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BO",
+        "cityName": "La Paz \/ El Alto",
+        "iataStationCode": "LPB",
+        "category": "mid"
+    },
+    {
+        "name": "La Plata Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "La Plata",
+        "iataStationCode": "LPG",
+        "category": "mid"
+    },
+    {
+        "name": "Laredo International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Laredo",
+        "iataStationCode": "LRD",
+        "category": "mid"
+    },
+    {
+        "name": "Sumburgh Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Lerwick",
+        "iataStationCode": "LSI",
+        "category": "mid"
+    },
+    {
+        "name": "Latakia Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "SY",
+        "cityName": "Latakia",
+        "iataStationCode": "LTK",
+        "category": "major"
+    },
+    {
+        "name": "London Luton Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "London",
+        "iataStationCode": "LTN",
+        "category": "major"
+    },
+    {
+        "name": "Lusaka International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZM",
+        "cityName": "Lusaka",
+        "iataStationCode": "LUN",
+        "category": "mid"
+    },
+    {
+        "name": "Sknilov Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Lviv",
+        "iataStationCode": "LWO",
+        "category": "mid and military"
+    },
+    {
+        "name": "Luxor Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "EG",
+        "cityName": "Luxor",
+        "iataStationCode": "LXR",
+        "category": "mid"
+    },
+    {
+        "name": "Faisalabad Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Faisalabad",
+        "iataStationCode": "LYP",
+        "category": "mid and military"
+    },
+    {
+        "name": "Svalbard Longyear Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NO",
+        "cityName": "Longyearbyen",
+        "iataStationCode": "LYR",
+        "category": "mid"
+    },
+    {
+        "name": "Chennai International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Chennai",
+        "iataStationCode": "MAA",
+        "category": "major"
+    },
+    {
+        "name": "Marshall Islands International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "MH",
+        "cityName": "Majuro Atoll",
+        "iataStationCode": "MAJ",
+        "category": "mid"
+    },
+    {
+        "name": "General Sevando Canales Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Matamoros",
+        "iataStationCode": "MAM",
+        "category": "mid"
+    },
+    {
+        "name": "Manchester International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Manchester",
+        "iataStationCode": "MAN",
+        "category": "major"
+    },
+    {
+        "name": "La Chinita International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "VE",
+        "cityName": "Maracaibo",
+        "iataStationCode": "MAR",
+        "category": "mid"
+    },
+    {
+        "name": "Sangster International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "JM",
+        "cityName": "Montego Bay",
+        "iataStationCode": "MBJ",
+        "category": "mid"
+    },
+    {
+        "name": "Kansas cityName International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Kansas cityName",
+        "iataStationCode": "MCI",
+        "category": "major"
+    },
+    {
+        "name": "Orlando International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Orlando",
+        "iataStationCode": "MCO",
+        "category": "major"
+    },
+    {
+        "name": "Seeb International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "OM",
+        "cityName": "Muscat",
+        "iataStationCode": "MCT",
+        "category": "major"
+    },
+    {
+        "name": "Jose Maria Cordova Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CO",
+        "cityName": "Rionegro",
+        "iataStationCode": "MDE",
+        "category": "mid"
+    },
+    {
+        "name": "Mandalay Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MM",
+        "cityName": "Mandalay",
+        "iataStationCode": "MDL",
+        "category": "mid"
+    },
+    {
+        "name": "Chicago Midway International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Chicago",
+        "iataStationCode": "MDW",
+        "category": "major"
+    },
+    {
+        "name": "Eloy Alfaro Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "EC",
+        "cityName": "Manta",
+        "iataStationCode": "MEC",
+        "category": "mid and military"
+    },
+    {
+        "name": "Melbourne International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Melbourne",
+        "iataStationCode": "MEL",
+        "category": "major"
+    },
+    {
+        "name": "Memphis International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Memphis",
+        "iataStationCode": "MEM",
+        "category": "major"
+    },
+    {
+        "name": "Lic Benito Juarez International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Mexico cityName",
+        "iataStationCode": "MEX",
+        "category": "major"
+    },
+    {
+        "name": "Macau Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MO",
+        "cityName": "Taipa",
+        "iataStationCode": "MFM",
+        "category": "major"
+    },
+    {
+        "name": "Augusto Cesar Sandino International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "NI",
+        "cityName": "Managua",
+        "iataStationCode": "MGA",
+        "category": "mid"
+    },
+    {
+        "name": "Montgomery Regional Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Montgomery",
+        "iataStationCode": "MGM",
+        "category": "major"
+    },
+    {
+        "name": "Mogadishu Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "SO",
+        "cityName": "Mogadishu",
+        "iataStationCode": "MGQ",
+        "category": "mid"
+    },
+    {
+        "name": "Mashhad Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Mashhad",
+        "iataStationCode": "MHD",
+        "category": "major"
+    },
+    {
+        "name": "Manchester-Boston Regional Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Manchester",
+        "iataStationCode": "MHT",
+        "category": "major"
+    },
+    {
+        "name": "Miami International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Miami",
+        "iataStationCode": "MIA",
+        "category": "major"
+    },
+    {
+        "name": "Lic M Crecencio Rejon International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Merida",
+        "iataStationCode": "MID",
+        "category": "mid"
+    },
+    {
+        "name": "Habib Bourguiba International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "TN",
+        "cityName": "Monastir",
+        "iataStationCode": "MIR",
+        "category": "mid"
+    },
+    {
+        "name": "Maiduguri Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Maiduguri",
+        "iataStationCode": "MIU",
+        "category": "mid"
+    },
+    {
+        "name": "Mbuji Mayi Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CD",
+        "cityName": "Mbuji Mayi",
+        "iataStationCode": "MJM",
+        "category": "mid"
+    },
+    {
+        "name": "Luqa Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "MT",
+        "cityName": "Luqa",
+        "iataStationCode": "MLA",
+        "category": "major"
+    },
+    {
+        "name": "Ninoy Aquino International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PH",
+        "cityName": "Manila",
+        "iataStationCode": "MNL",
+        "category": "major"
+    },
+    {
+        "name": "Moi International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "KE",
+        "cityName": "Mombasa",
+        "iataStationCode": "MBA",
+        "category": "major"
+    },
+    {
+        "name": "Minot International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Minot",
+        "iataStationCode": "MOT",
+        "category": "mid"
+    },
+    {
+        "name": "Maputo Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MZ",
+        "cityName": "Maputo",
+        "iataStationCode": "MPM",
+        "category": "mid"
+    },
+    {
+        "name": "Marignane Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Marseille",
+        "iataStationCode": "MRS",
+        "category": "major"
+    },
+    {
+        "name": "Plaisance International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MU",
+        "cityName": "Port Louis",
+        "iataStationCode": "MRU",
+        "category": "mid"
+    },
+    {
+        "name": "Dane County Regional Airport-Truax Field",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Madison",
+        "iataStationCode": "MSN",
+        "category": "major"
+    },
+    {
+        "name": "Missoula International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Missoula",
+        "iataStationCode": "MSO",
+        "category": "mid"
+    },
+    {
+        "name": "Minneapolis St. Paul International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Minneapolis",
+        "iataStationCode": "MSP",
+        "category": "major"
+    },
+    {
+        "name": "Velikiydvor Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "BY",
+        "cityName": "Minsk",
+        "iataStationCode": "MSQ",
+        "category": "major"
+    },
+    {
+        "name": "Moshoeshoe I International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "LS",
+        "cityName": "Maseru",
+        "iataStationCode": "MSU",
+        "category": "mid"
+    },
+    {
+        "name": "New Orleans International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "New Orleans",
+        "iataStationCode": "MSY",
+        "category": "major"
+    },
+    {
+        "name": "Franz-Josef-Strauss Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Munich",
+        "iataStationCode": "MUC",
+        "category": "major"
+    },
+    {
+        "name": "Multan Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Multan",
+        "iataStationCode": "MUX",
+        "category": "major and military"
+    },
+    {
+        "name": "Carrasco International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "UY",
+        "cityName": "Montevideo",
+        "iataStationCode": "MVD",
+        "category": "major"
+    },
+    {
+        "name": "Gen Rodolfo Sanchez T International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Mexicali",
+        "iataStationCode": "MXL",
+        "category": "mid"
+    },
+    {
+        "name": "Malpensa International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Milan",
+        "iataStationCode": "MXP",
+        "category": "major"
+    },
+    {
+        "name": "General Rafael Buelna International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Mazatlan",
+        "iataStationCode": "MZT",
+        "category": "mid"
+    },
+    {
+        "name": "Naples International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Napoli",
+        "iataStationCode": "NAP",
+        "category": "major"
+    },
+    {
+        "name": "Nassau International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "BS",
+        "cityName": "Nassau",
+        "iataStationCode": "NAS",
+        "category": "major"
+    },
+    {
+        "name": "Jomo Kenyatta International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "KE",
+        "cityName": "Nairobi",
+        "iataStationCode": "NBO",
+        "category": "major"
+    },
+    {
+        "name": "Nouadhibou Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MR",
+        "cityName": "Nouadhibou",
+        "iataStationCode": "NDB",
+        "category": "mid"
+    },
+    {
+        "name": "Ndjamena Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "TD",
+        "cityName": "N'Djamena",
+        "iataStationCode": "NDJ",
+        "category": "mid"
+    },
+    {
+        "name": "Ningbo Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Ningbo",
+        "iataStationCode": "NGB",
+        "category": "major"
+    },
+    {
+        "name": "Niamey Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NE",
+        "cityName": "Niamey",
+        "iataStationCode": "NIM",
+        "category": "mid"
+    },
+    {
+        "name": "Honolulu International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Honolulu",
+        "iataStationCode": "HNL",
+        "category": "major"
+    },
+    {
+        "name": "Nouakchott Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MR",
+        "cityName": "Nouakchott",
+        "iataStationCode": "NKC",
+        "category": "mid"
+    },
+    {
+        "name": "Quetzalcoatl International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Nuevo Laredo",
+        "iataStationCode": "NLD",
+        "category": "mid"
+    },
+    {
+        "name": "Norfolk Island Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NF",
+        "cityName": "Burnt Pine",
+        "iataStationCode": "NLK",
+        "category": "mid"
+    },
+    {
+        "name": "Nanning-Wuyu Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Nanning",
+        "iataStationCode": "NNG",
+        "category": "major"
+    },
+    {
+        "name": "Mactan-Cebu International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PH",
+        "cityName": "Lapu-Lapu cityName",
+        "iataStationCode": "CEB",
+        "category": "major"
+    },
+    {
+        "name": "La Tontouta Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NC",
+        "cityName": "Noumea",
+        "iataStationCode": "NOU",
+        "category": "mid"
+    },
+    {
+        "name": "Huambo Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "AO",
+        "cityName": "Huambo",
+        "iataStationCode": "NOV",
+        "category": "mid"
+    },
+    {
+        "name": "Nurnberg Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Nuremberg",
+        "iataStationCode": "NUE",
+        "category": "major"
+    },
+    {
+        "name": "Oakland International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Oakland",
+        "iataStationCode": "OAK",
+        "category": "major"
+    },
+    {
+        "name": "Xoxocotlan Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Oaxaca",
+        "iataStationCode": "OAX",
+        "category": "mid"
+    },
+    {
+        "name": "Odessa Central Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Odessa",
+        "iataStationCode": "ODS",
+        "category": "major"
+    },
+    {
+        "name": "Kahului Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Kahului",
+        "iataStationCode": "OGG",
+        "category": "mid"
+    },
+    {
+        "name": "Will Rogers World Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Oklahoma cityName",
+        "iataStationCode": "OKC",
+        "category": "major"
+    },
+    {
+        "name": "Eppley Airfield",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Omaha",
+        "iataStationCode": "OMA",
+        "category": "mid"
+    },
+    {
+        "name": "Nome Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Nome",
+        "iataStationCode": "OME",
+        "category": "mid"
+    },
+    {
+        "name": "Omsk S.W. Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Omsk",
+        "iataStationCode": "OMS",
+        "category": "mid"
+    },
+    {
+        "name": "Ontario International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Ontario",
+        "iataStationCode": "ONT",
+        "category": "major"
+    },
+    {
+        "name": "Coolangatta Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Gold Coast",
+        "iataStationCode": "OOL",
+        "category": "mid"
+    },
+    {
+        "name": "Chicago O'Hare International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Chicago",
+        "iataStationCode": "ORD",
+        "category": "major"
+    },
+    {
+        "name": "Norfolk International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Norfolk",
+        "iataStationCode": "ORF",
+        "category": "major"
+    },
+    {
+        "name": "Cork Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IE",
+        "cityName": "Cork",
+        "iataStationCode": "ORK",
+        "category": "major"
+    },
+    {
+        "name": "Es Senia Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "DZ",
+        "cityName": "Oran",
+        "iataStationCode": "ORN",
+        "category": "mid"
+    },
+    {
+        "name": "Ouagadougou Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "BF",
+        "cityName": "Ouagadougou",
+        "iataStationCode": "OUA",
+        "category": "mid"
+    },
+    {
+        "name": "Tolmachevo Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Novosibirsk",
+        "iataStationCode": "OVB",
+        "category": "mid"
+    },
+    {
+        "name": "Zaporozhye East Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Zaporizhia",
+        "iataStationCode": "OZH",
+        "category": "mid and military"
+    },
+    {
+        "name": "Mais Gate International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "HT",
+        "cityName": "Port-au-Prince",
+        "iataStationCode": "PAP",
+        "category": "mid"
+    },
+    {
+        "name": "Lok Nayak Jaiprakash Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Patna",
+        "iataStationCode": "PAT",
+        "category": "mid"
+    },
+    {
+        "name": "Puebla Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Puebla",
+        "iataStationCode": "PBC",
+        "category": "mid"
+    },
+    {
+        "name": "Palm Beach International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "West Palm Beach",
+        "iataStationCode": "PBI",
+        "category": "major"
+    },
+    {
+        "name": "Johan A Pengel International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "SR",
+        "cityName": "Zandery",
+        "iataStationCode": "PBM",
+        "category": "mid"
+    },
+    {
+        "name": "Tabing Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Padang-Sumatra Island",
+        "iataStationCode": "PDG",
+        "category": "mid"
+    },
+    {
+        "name": "Ponta Delgada Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PT",
+        "cityName": "Ponta Delgada",
+        "iataStationCode": "PDL",
+        "category": "mid"
+    },
+    {
+        "name": "Paysandu Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "UY",
+        "cityName": "Paysandu",
+        "iataStationCode": "PDU",
+        "category": "mid"
+    },
+    {
+        "name": "Portland International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Portland",
+        "iataStationCode": "PDX",
+        "category": "major"
+    },
+    {
+        "name": "Bolshesavino Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Perm",
+        "iataStationCode": "PEE",
+        "category": "mid"
+    },
+    {
+        "name": "Penang International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MY",
+        "cityName": "Penang",
+        "iataStationCode": "PEN",
+        "category": "mid"
+    },
+    {
+        "name": "Perth International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Perth",
+        "iataStationCode": "PER",
+        "category": "major"
+    },
+    {
+        "name": "Peshawar Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Peshawar",
+        "iataStationCode": "PEW",
+        "category": "mid"
+    },
+    {
+        "name": "Paphos International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CY",
+        "cityName": "Paphos",
+        "iataStationCode": "PFO",
+        "category": "major"
+    },
+    {
+        "name": "Port Harcourt International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Port Harcourt",
+        "iataStationCode": "PHC",
+        "category": "mid"
+    },
+    {
+        "name": "Port Hedland Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Port Hedland",
+        "iataStationCode": "PHE",
+        "category": "mid"
+    },
+    {
+        "name": "Philadelphia International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Philadelphia",
+        "iataStationCode": "PHL",
+        "category": "major"
+    },
+    {
+        "name": "Sky Harbor International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Phoenix",
+        "iataStationCode": "PHX",
+        "category": "major"
+    },
+    {
+        "name": "Glasgow Prestwick International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Glasgow",
+        "iataStationCode": "PIK",
+        "category": "mid"
+    },
+    {
+        "name": "Pierre Municipal Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Pierre",
+        "iataStationCode": "PIR",
+        "category": "mid"
+    },
+    {
+        "name": "Greater Pittsburgh International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Pittsburgh",
+        "iataStationCode": "PIT",
+        "category": "major"
+    },
+    {
+        "name": "Amambay Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Ponta Pora",
+        "iataStationCode": "PMG",
+        "category": "mid"
+    },
+    {
+        "name": "Simpang Tiga Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Pekanbaru-Sumatra Island",
+        "iataStationCode": "PKU",
+        "category": "mid"
+    },
+    {
+        "name": "Sultan Mahmud Badaruddin Ii Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Palembang-Sumatra Island",
+        "iataStationCode": "PLM",
+        "category": "mid"
+    },
+    {
+        "name": "H F Verwoerd Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZA",
+        "cityName": "Port Elizabeth",
+        "iataStationCode": "PLZ",
+        "category": "mid"
+    },
+    {
+        "name": "El Tepual International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Puerto Montt",
+        "iataStationCode": "PMC",
+        "category": "mid"
+    },
+    {
+        "name": "Palermo Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Palermo",
+        "iataStationCode": "PMO",
+        "category": "major"
+    },
+    {
+        "name": "Palmerston North Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NZ",
+        "cityName": "",
+        "iataStationCode": "PMR",
+        "category": "mid"
+    },
+    {
+        "name": "Pochentong Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KH",
+        "cityName": "Phnom Penh",
+        "iataStationCode": "PNH",
+        "category": "major"
+    },
+    {
+        "name": "Pohnpei International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "FM",
+        "cityName": "Pohnpei Island",
+        "iataStationCode": "PNI",
+        "category": "mid"
+    },
+    {
+        "name": "Pune Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Pune",
+        "iataStationCode": "PNQ",
+        "category": "major and military"
+    },
+    {
+        "name": "Port Moresby International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "PG",
+        "cityName": "Port Moresby",
+        "iataStationCode": "POM",
+        "category": "major"
+    },
+    {
+        "name": "Pago Pago International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AS",
+        "cityName": "Pago Pago",
+        "iataStationCode": "PPG",
+        "category": "mid"
+    },
+    {
+        "name": "Tahiti Faaa Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "PF",
+        "cityName": "Papeete",
+        "iataStationCode": "PPT",
+        "category": "mid"
+    },
+    {
+        "name": "Pisa Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Pisa",
+        "iataStationCode": "PSA",
+        "category": "major and military"
+    },
+    {
+        "name": "Polokwane International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZA",
+        "cityName": "Potgietersrus",
+        "iataStationCode": "PTG",
+        "category": "mid"
+    },
+    {
+        "name": "Tocumen International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "PA",
+        "cityName": "Tocumen",
+        "iataStationCode": "PTY",
+        "category": "major"
+    },
+    {
+        "name": "Punta Cana Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "DO",
+        "cityName": "Punta Cana",
+        "iataStationCode": "PUJ",
+        "category": "mid"
+    },
+    {
+        "name": "Carlos Ibanez de Campo International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Punta Arenas",
+        "iataStationCode": "PUQ",
+        "category": "mid"
+    },
+    {
+        "name": "Theodore Francis Green State Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Providence",
+        "iataStationCode": "PVD",
+        "category": "mid"
+    },
+    {
+        "name": "Port Sudan International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "SD",
+        "cityName": "Port Sudan",
+        "iataStationCode": "PZU",
+        "category": "mid and military"
+    },
+    {
+        "name": "Birmingham International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GB",
+        "cityName": "Birmingham",
+        "iataStationCode": "BHX",
+        "category": "major"
+    },
+    {
+        "name": "Queretaro Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Queretaro",
+        "iataStationCode": "QRO",
+        "category": "mid"
+    },
+    {
+        "name": "Francisco Mendes Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CV",
+        "cityName": "Praia",
+        "iataStationCode": "RAI",
+        "category": "mid"
+    },
+    {
+        "name": "Rajkot Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Rajkot",
+        "iataStationCode": "RAJ",
+        "category": "mid"
+    },
+    {
+        "name": "Menara Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MA",
+        "cityName": "Marrakech",
+        "iataStationCode": "RAK",
+        "category": "mid"
+    },
+    {
+        "name": "Rarotonga International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "CK",
+        "cityName": "Avarua",
+        "iataStationCode": "RAR",
+        "category": "mid"
+    },
+    {
+        "name": "Durham International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Raleigh\/Durham",
+        "iataStationCode": "RDU",
+        "category": "major"
+    },
+    {
+        "name": "Siem Reap Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KH",
+        "cityName": "Siem Reap",
+        "iataStationCode": "REP",
+        "category": "major"
+    },
+    {
+        "name": "Rio Grande Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "Rio Grande",
+        "iataStationCode": "RGA",
+        "category": "mid"
+    },
+    {
+        "name": "Rio Gallegos Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "Rio Gallegos",
+        "iataStationCode": "RGL",
+        "category": "mid"
+    },
+    {
+        "name": "Mingaladon Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MM",
+        "cityName": "Yangon",
+        "iataStationCode": "RGN",
+        "category": "major"
+    },
+    {
+        "name": "Richmond International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Richmond",
+        "iataStationCode": "RIC",
+        "category": "major"
+    },
+    {
+        "name": "Riga Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "LV",
+        "cityName": "Riga",
+        "iataStationCode": "RIX",
+        "category": "major"
+    },
+    {
+        "name": "Rajshahi Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "BD",
+        "cityName": "Rajshahi",
+        "iataStationCode": "RJH",
+        "category": "mid"
+    },
+    {
+        "name": "Reno-Tahoe International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Reno",
+        "iataStationCode": "RNO",
+        "category": "major"
+    },
+    {
+        "name": "Roberts International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "LR",
+        "cityName": "Monrovia",
+        "iataStationCode": "ROB",
+        "category": "mid"
+    },
+    {
+        "name": "Greater Rochester International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Rochester",
+        "iataStationCode": "ROC",
+        "category": "major"
+    },
+    {
+        "name": "Rockhampton Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Rockhampton",
+        "iataStationCode": "ROK",
+        "category": "mid"
+    },
+    {
+        "name": "Rota International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "MP",
+        "cityName": "Rota Island",
+        "iataStationCode": "ROP",
+        "category": "mid"
+    },
+    {
+        "name": "Koror Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "PW",
+        "cityName": "Babelthuap Island",
+        "iataStationCode": "ROR",
+        "category": "mid"
+    },
+    {
+        "name": "Rostov East Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Rostov-on-Don",
+        "iataStationCode": "ROV",
+        "category": "mid"
+    },
+    {
+        "name": "Raipur Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Raipur",
+        "iataStationCode": "RPR",
+        "category": "mid"
+    },
+    {
+        "name": "Southwest Florida International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Fort Myers",
+        "iataStationCode": "RSW",
+        "category": "major"
+    },
+    {
+        "name": "Saratov Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Saratov",
+        "iataStationCode": "RTW",
+        "category": "mid"
+    },
+    {
+        "name": "King Khalid International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "SA",
+        "cityName": "Riyadh",
+        "iataStationCode": "RUH",
+        "category": "major"
+    },
+    {
+        "name": "Sanaa International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "YE",
+        "cityName": "Sana'a",
+        "iataStationCode": "SAH",
+        "category": "mid"
+    },
+    {
+        "name": "El Salvador International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "SV",
+        "cityName": "Santa Clara",
+        "iataStationCode": "SAL",
+        "category": "mid"
+    },
+    {
+        "name": "San Diego International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "San Diego",
+        "iataStationCode": "SAN",
+        "category": "major"
+    },
+    {
+        "name": "La Mesa International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "HN",
+        "cityName": "La Mesa",
+        "iataStationCode": "SAP",
+        "category": "mid"
+    },
+    {
+        "name": "San Antonio International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "San Antonio",
+        "iataStationCode": "SAT",
+        "category": "major"
+    },
+    {
+        "name": "Savannah International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Savannah",
+        "iataStationCode": "SAV",
+        "category": "major"
+    },
+    {
+        "name": "Santa Barbara Municipal Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Santa Barbara",
+        "iataStationCode": "SBA",
+        "category": "mid"
+    },
+    {
+        "name": "Deadhorse Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Deadhorse",
+        "iataStationCode": "SCC",
+        "category": "mid"
+    },
+    {
+        "name": "Arturo Merino Benitez International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "CL",
+        "cityName": "Santiago",
+        "iataStationCode": "SCL",
+        "category": "major"
+    },
+    {
+        "name": "Antonio Maceo Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CU",
+        "cityName": "Santiago",
+        "iataStationCode": "SCU",
+        "category": "mid"
+    },
+    {
+        "name": "Baghdad International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IQ",
+        "cityName": "Baghdad",
+        "iataStationCode": "SDA",
+        "category": "major"
+    },
+    {
+        "name": "De Las Americas International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "DO",
+        "cityName": "Santo Domingo",
+        "iataStationCode": "SDQ",
+        "category": "major"
+    },
+    {
+        "name": "Tacoma International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Seattle",
+        "iataStationCode": "SEA",
+        "category": "major"
+    },
+    {
+        "name": "Sondrestrom Air Base",
+        "regionCode": "NA",
+        "Iso2CountryCode": "GL",
+        "cityName": "Kangerlussuaq",
+        "iataStationCode": "SFJ",
+        "category": "mid"
+    },
+    {
+        "name": "San Francisco International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "San Francisco",
+        "iataStationCode": "SFO",
+        "category": "major"
+    },
+    {
+        "name": "Surgut North Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Surgut",
+        "iataStationCode": "SGC",
+        "category": "mid"
+    },
+    {
+        "name": "Springfield Regional Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Springfield",
+        "iataStationCode": "SGF",
+        "category": "major"
+    },
+    {
+        "name": "Tan Son Nhut Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "VN",
+        "cityName": "Ho Chi Minh cityName",
+        "iataStationCode": "SGN",
+        "category": "major"
+    },
+    {
+        "name": "Hongqiao Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Shanghai",
+        "iataStationCode": "SHA",
+        "category": "major"
+    },
+    {
+        "name": "Dongta Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Shenyang",
+        "iataStationCode": "SHE",
+        "category": "major"
+    },
+    {
+        "name": "Sharjah International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "AE",
+        "cityName": "Sharjah",
+        "iataStationCode": "SHJ",
+        "category": "major"
+    },
+    {
+        "name": "Shreveport Regional Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Shreveport",
+        "iataStationCode": "SHV",
+        "category": "major"
+    },
+    {
+        "name": "Amilcar Cabral International Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CV",
+        "cityName": "Espargos",
+        "iataStationCode": "SID",
+        "category": "mid"
+    },
+    {
+        "name": "Simferopol North Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "UA",
+        "cityName": "Simferopol",
+        "iataStationCode": "SIP",
+        "category": "major"
+    },
+    {
+        "name": "Sitka Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Sitka",
+        "iataStationCode": "SIT",
+        "category": "mid"
+    },
+    {
+        "name": "Norman Y Mineta San Jose International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "San Jose",
+        "iataStationCode": "SJC",
+        "category": "major"
+    },
+    {
+        "name": "Los Cabos International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "San Jose del Cabo",
+        "iataStationCode": "SJD",
+        "category": "major"
+    },
+    {
+        "name": "Sarajevo Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "BA",
+        "cityName": "Sarajevo",
+        "iataStationCode": "SJJ",
+        "category": "major"
+    },
+    {
+        "name": "Golden Rock Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "KN",
+        "cityName": "Basseterre",
+        "iataStationCode": "SKB",
+        "category": "mid"
+    },
+    {
+        "name": "Thessaloniki Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GR",
+        "cityName": "Thessaloniki",
+        "iataStationCode": "SKG",
+        "category": "major"
+    },
+    {
+        "name": "Salta Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "Salta",
+        "iataStationCode": "SLA",
+        "category": "mid"
+    },
+    {
+        "name": "Salt Lake cityName International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Salt Lake cityName",
+        "iataStationCode": "SLC",
+        "category": "major"
+    },
+    {
+        "name": "Mcnary Field Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Salem",
+        "iataStationCode": "SLE",
+        "category": "major"
+    },
+    {
+        "name": "San Luis Potosi Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "San Luis Potosi",
+        "iataStationCode": "SLP",
+        "category": "mid"
+    },
+    {
+        "name": "Plan de Guadalupe Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Saltillo",
+        "iataStationCode": "SLW",
+        "category": "mid"
+    },
+    {
+        "name": "Sacramento International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Sacramento",
+        "iataStationCode": "SMF",
+        "category": "major"
+    },
+    {
+        "name": "John Wayne Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Santa Ana",
+        "iataStationCode": "SNA",
+        "category": "major"
+    },
+    {
+        "name": "Shannon Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IE",
+        "cityName": "Shannon",
+        "iataStationCode": "SNN",
+        "category": "major"
+    },
+    {
+        "name": "Vrazhdebna Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "BG",
+        "cityName": "Sofia",
+        "iataStationCode": "SOF",
+        "category": "major"
+    },
+    {
+        "name": "Santo Pekoa International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "VU",
+        "cityName": "Luganville",
+        "iataStationCode": "SON",
+        "category": "mid"
+    },
+    {
+        "name": "Saipan International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "MP",
+        "cityName": "Saipan Island",
+        "iataStationCode": "SPN",
+        "category": "mid"
+    },
+    {
+        "name": "Juana Azurduy de Padilla Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BO",
+        "cityName": "Sucre",
+        "iataStationCode": "SRE",
+        "category": "mid"
+    },
+    {
+        "name": "Achmad Yani Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Semarang-Java Island",
+        "iataStationCode": "SRG",
+        "category": "mid"
+    },
+    {
+        "name": "Cibao International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "DO",
+        "cityName": "Santiago",
+        "iataStationCode": "STI",
+        "category": "mid"
+    },
+    {
+        "name": "Lambert St Louis International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "St Louis",
+        "iataStationCode": "STL",
+        "category": "major"
+    },
+    {
+        "name": "Stuttgart Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Stuttgart",
+        "iataStationCode": "STR",
+        "category": "major"
+    },
+    {
+        "name": "Nausori International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "FJ",
+        "cityName": "Nausori",
+        "iataStationCode": "SUV",
+        "category": "mid"
+    },
+    {
+        "name": "Sheremtyevo Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Moscow",
+        "iataStationCode": "SVO",
+        "category": "major"
+    },
+    {
+        "name": "Koltsovo Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Yekaterinburg",
+        "iataStationCode": "SVX",
+        "category": "major"
+    },
+    {
+        "name": "Prinses Juliana International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "AN",
+        "cityName": "Saint Martin",
+        "iataStationCode": "SXM",
+        "category": "major"
+    },
+    {
+        "name": "Aeropuerto Nacional Tobias Bolanos",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CR",
+        "cityName": "San Jose",
+        "iataStationCode": "SYQ",
+        "category": "mid"
+    },
+    {
+        "name": "Hancock International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Syracuse",
+        "iataStationCode": "SYR",
+        "category": "major"
+    },
+    {
+        "name": "Shiraz International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Shiraz",
+        "iataStationCode": "SYZ",
+        "category": "major"
+    },
+    {
+        "name": "Shenzhen Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Shenzhen",
+        "iataStationCode": "SZX",
+        "category": "major"
+    },
+    {
+        "name": "Taiz Ganed Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "YE",
+        "cityName": "Ta'izz",
+        "iataStationCode": "TAI",
+        "category": "mid"
+    },
+    {
+        "name": "Gen Francisco J Mina International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Tampico",
+        "iataStationCode": "TAM",
+        "category": "mid"
+    },
+    {
+        "name": "Liuting Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Qingdao",
+        "iataStationCode": "TAO",
+        "category": "mid"
+    },
+    {
+        "name": "Tapachula International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Tapachula",
+        "iataStationCode": "TAP",
+        "category": "mid"
+    },
+    {
+        "name": "Tabriz Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Tabriz",
+        "iataStationCode": "TBZ",
+        "category": "mid"
+    },
+    {
+        "name": "Titograd Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ME",
+        "cityName": "Podgorica",
+        "iataStationCode": "TGD",
+        "category": "major"
+    },
+    {
+        "name": "Toncontin International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "HN",
+        "cityName": "Tegucigalpa",
+        "iataStationCode": "TGU",
+        "category": "mid"
+    },
+    {
+        "name": "Mehrabad International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Tehran",
+        "iataStationCode": "THR",
+        "category": "major"
+    },
+    {
+        "name": "Tirane Rinas Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "AL",
+        "cityName": "Tirana",
+        "iataStationCode": "TIA",
+        "category": "major"
+    },
+    {
+        "name": "General Abelardo L Rodriguez International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Tijuana",
+        "iataStationCode": "TIJ",
+        "category": "major"
+    },
+    {
+        "name": "Truk International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "FM",
+        "cityName": "Weno Island",
+        "iataStationCode": "TKK",
+        "category": "mid"
+    },
+    {
+        "name": "Jose Maria Morelos Y Pavon Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Toluca",
+        "iataStationCode": "TLC",
+        "category": "mid"
+    },
+    {
+        "name": "Tallahassee Regional Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Tallahassee",
+        "iataStationCode": "TLH",
+        "category": "major"
+    },
+    {
+        "name": "Ulemiste Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "EE",
+        "cityName": "Tallinn",
+        "iataStationCode": "TLL",
+        "category": "major"
+    },
+    {
+        "name": "Ben Gurion Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IL",
+        "cityName": "Tel Aviv",
+        "iataStationCode": "TLV",
+        "category": "major"
+    },
+    {
+        "name": "Sao Tome Salazar Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ST",
+        "cityName": "Sao Tome",
+        "iataStationCode": "TMS",
+        "category": "mid"
+    },
+    {
+        "name": "Boukhalf Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MA",
+        "cityName": "Tangier",
+        "iataStationCode": "TNG",
+        "category": "mid"
+    },
+    {
+        "name": "Antananarivo Ivato Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "MG",
+        "cityName": "Antananarivo",
+        "iataStationCode": "TNR",
+        "category": "mid"
+    },
+    {
+        "name": "Tampa International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Tampa",
+        "iataStationCode": "TPA",
+        "category": "major"
+    },
+    {
+        "name": "Torreon International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Torreon",
+        "iataStationCode": "TRC",
+        "category": "mid"
+    },
+    {
+        "name": "Turin International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Torino",
+        "iataStationCode": "TRN",
+        "category": "major"
+    },
+    {
+        "name": "Bonriki International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "KI",
+        "cityName": "Tarawa",
+        "iataStationCode": "TRW",
+        "category": "mid"
+    },
+    {
+        "name": "Tiruchirappalli Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Tiruchirappally",
+        "iataStationCode": "TRZ",
+        "category": "mid"
+    },
+    {
+        "name": "Tselinograd South Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KZ",
+        "cityName": "Astana",
+        "iataStationCode": "TSE",
+        "category": "major"
+    },
+    {
+        "name": "Zhangguizhuang Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Tianjin",
+        "iataStationCode": "TSN",
+        "category": "major"
+    },
+    {
+        "name": "Townsville Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Townsville",
+        "iataStationCode": "TSV",
+        "category": "major and military"
+    },
+    {
+        "name": "Teniente Benjamin Matienzo Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "San Miguel de Tucuman",
+        "iataStationCode": "TUC",
+        "category": "mid"
+    },
+    {
+        "name": "Turbat Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Turbat",
+        "iataStationCode": "TUK",
+        "category": "mid"
+    },
+    {
+        "name": "Tulsa International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Tulsa",
+        "iataStationCode": "TUL",
+        "category": "major"
+    },
+    {
+        "name": "Aeroport Tunis",
+        "regionCode": "AF",
+        "Iso2CountryCode": "TN",
+        "cityName": "Tunis",
+        "iataStationCode": "TUN",
+        "category": "major"
+    },
+    {
+        "name": "Tucson International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Tucson",
+        "iataStationCode": "TUS",
+        "category": "major"
+    },
+    {
+        "name": "Taiyuan Wusu Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Taiyuan",
+        "iataStationCode": "TYN",
+        "category": "major"
+    },
+    {
+        "name": "Mcghee Tyson Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Knoxville",
+        "iataStationCode": "TYS",
+        "category": "major"
+    },
+    {
+        "name": "Narsarsuaq Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "GL",
+        "cityName": "Narsarsuaq",
+        "iataStationCode": "UAK",
+        "category": "mid"
+    },
+    {
+        "name": "Quetta Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Quetta",
+        "iataStationCode": "UET",
+        "category": "mid"
+    },
+    {
+        "name": "Ufa South Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Ufa",
+        "iataStationCode": "UFA",
+        "category": "major"
+    },
+    {
+        "name": "Ulaanbaatar S.W. Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MN",
+        "cityName": "Ulan Bator",
+        "iataStationCode": "ULN",
+        "category": "mid"
+    },
+    {
+        "name": "Diwopu Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Ueruemqi",
+        "iataStationCode": "URC",
+        "category": "major"
+    },
+    {
+        "name": "Hewanorra International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "LC",
+        "cityName": "Vieux Fort",
+        "iataStationCode": "UVF",
+        "category": "mid"
+    },
+    {
+        "name": "Victoria Falls Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "ZW",
+        "cityName": "Victoria Falls",
+        "iataStationCode": "VFA",
+        "category": "mid"
+    },
+    {
+        "name": "Vijaywada Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "",
+        "iataStationCode": "VGA",
+        "category": "mid"
+    },
+    {
+        "name": "Port Vila Bauerfield Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "VU",
+        "cityName": "Port Vila",
+        "iataStationCode": "VLI",
+        "category": "mid"
+    },
+    {
+        "name": "Zim Valencia Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "VE",
+        "cityName": "Valencia",
+        "iataStationCode": "VLN",
+        "category": "mid"
+    },
+    {
+        "name": "Varanasi Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Varanasi",
+        "iataStationCode": "VNS",
+        "category": "mid"
+    },
+    {
+        "name": "Gumrak Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Volgograd",
+        "iataStationCode": "VOG",
+        "category": "mid"
+    },
+    {
+        "name": "Varadero Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CU",
+        "cityName": "Varadero",
+        "iataStationCode": "VRA",
+        "category": "major"
+    },
+    {
+        "name": "Villahermosa Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Villahermosa",
+        "iataStationCode": "VSA",
+        "category": "mid"
+    },
+    {
+        "name": "Vientiane Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "LA",
+        "cityName": "Vientiane",
+        "iataStationCode": "VTE",
+        "category": "mid"
+    },
+    {
+        "name": "Viru Viru International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BO",
+        "cityName": "Santa Cruz",
+        "iataStationCode": "VVI",
+        "category": "mid"
+    },
+    {
+        "name": "Okecie International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PL",
+        "cityName": "Warsaw",
+        "iataStationCode": "WAW",
+        "category": "major"
+    },
+    {
+        "name": "Windhoek Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NA",
+        "cityName": "Windhoek",
+        "iataStationCode": "WDH",
+        "category": "mid"
+    },
+    {
+        "name": "Wellington International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NZ",
+        "cityName": "Wellington",
+        "iataStationCode": "WLG",
+        "category": "major"
+    },
+    {
+        "name": "Wewak International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "PG",
+        "cityName": "Wewak",
+        "iataStationCode": "WWK",
+        "category": "mid"
+    },
+    {
+        "name": "Xiamen Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Xiamen",
+        "iataStationCode": "XMN",
+        "category": "major"
+    },
+    {
+        "name": "Sault Ste Marie Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Sault Ste Marie",
+        "iataStationCode": "YAM",
+        "category": "mid"
+    },
+    {
+        "name": "Yap International Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "FM",
+        "cityName": "Yap Island",
+        "iataStationCode": "YAP",
+        "category": "mid"
+    },
+    {
+        "name": "Brandon Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Brandon",
+        "iataStationCode": "YBR",
+        "category": "mid"
+    },
+    {
+        "name": "Dawson Creek Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Dawson Creek",
+        "iataStationCode": "YDQ",
+        "category": "mid"
+    },
+    {
+        "name": "Edmonton International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Edmonton",
+        "iataStationCode": "YEG",
+        "category": "major"
+    },
+    {
+        "name": "Iqaluit Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Iqaluit",
+        "iataStationCode": "YFB",
+        "category": "mid"
+    },
+    {
+        "name": "Hamilton Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Hamilton",
+        "iataStationCode": "YHM",
+        "category": "mid"
+    },
+    {
+        "name": "Halifax International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Halifax",
+        "iataStationCode": "YHZ",
+        "category": "major"
+    },
+    {
+        "name": "Kamloops Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Kamloops",
+        "iataStationCode": "YKA",
+        "category": "mid"
+    },
+    {
+        "name": "Fort Mcmurray Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Fort McMurray",
+        "iataStationCode": "YMM",
+        "category": "mid"
+    },
+    {
+        "name": "Yantai Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Yantai",
+        "iataStationCode": "YNT",
+        "category": "major and military"
+    },
+    {
+        "name": "Peace River Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Peace River",
+        "iataStationCode": "YPE",
+        "category": "mid"
+    },
+    {
+        "name": "Prince Rupert Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Prince Rupert",
+        "iataStationCode": "YPR",
+        "category": "mid"
+    },
+    {
+        "name": "Windsor Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Windsor",
+        "iataStationCode": "YQG",
+        "category": "mid"
+    },
+    {
+        "name": "Greater Moncton International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Moncton",
+        "iataStationCode": "YQM",
+        "category": "mid"
+    },
+    {
+        "name": "Regina Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Regina",
+        "iataStationCode": "YQR",
+        "category": "mid"
+    },
+    {
+        "name": "Sydney Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Sydney",
+        "iataStationCode": "YQY",
+        "category": "mid"
+    },
+    {
+        "name": "Resolute Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Resolute Bay",
+        "iataStationCode": "YRB",
+        "category": "mid"
+    },
+    {
+        "name": "Sudbury Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Sudbury",
+        "iataStationCode": "YSB",
+        "category": "mid"
+    },
+    {
+        "name": "Saint John Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Saint John",
+        "iataStationCode": "YSJ",
+        "category": "mid"
+    },
+    {
+        "name": "Fort Smith Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Fort Smith",
+        "iataStationCode": "YSM",
+        "category": "mid"
+    },
+    {
+        "name": "Thompson Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Thompson",
+        "iataStationCode": "YTH",
+        "category": "mid"
+    },
+    {
+        "name": "Timmins Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Timmins",
+        "iataStationCode": "YTS",
+        "category": "mid"
+    },
+    {
+        "name": "Repulse Bay Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Repulse Bay",
+        "iataStationCode": "YUT",
+        "category": "mid"
+    },
+    {
+        "name": "Kuujjuaq Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Kuujjuaq",
+        "iataStationCode": "YVP",
+        "category": "mid"
+    },
+    {
+        "name": "Vancouver International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Vancouver",
+        "iataStationCode": "YVR",
+        "category": "major"
+    },
+    {
+        "name": "Winnipeg International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Winnipeg",
+        "iataStationCode": "YWG",
+        "category": "major"
+    },
+    {
+        "name": "Wabush Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Wabush",
+        "iataStationCode": "YWK",
+        "category": "mid"
+    },
+    {
+        "name": "Edmonton cityName Centre Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Edmonton",
+        "iataStationCode": "YXD",
+        "category": "mid"
+    },
+    {
+        "name": "John G Diefenbaker International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Saskatoon",
+        "iataStationCode": "YXE",
+        "category": "mid"
+    },
+    {
+        "name": "North Peace Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Fort St.John",
+        "iataStationCode": "YXJ",
+        "category": "mid"
+    },
+    {
+        "name": "Prince George Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Prince George",
+        "iataStationCode": "YXS",
+        "category": "mid"
+    },
+    {
+        "name": "Whitehorse International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Whitehorse",
+        "iataStationCode": "YXY",
+        "category": "mid"
+    },
+    {
+        "name": "North Bay Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "North Bay",
+        "iataStationCode": "YYB",
+        "category": "mid"
+    },
+    {
+        "name": "Calgary International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Calgary",
+        "iataStationCode": "YYC",
+        "category": "major"
+    },
+    {
+        "name": "Charlottetown Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Charlottetown",
+        "iataStationCode": "YYG",
+        "category": "mid"
+    },
+    {
+        "name": "Victoria International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Victoria",
+        "iataStationCode": "YYJ",
+        "category": "major"
+    },
+    {
+        "name": "Churchill Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Churchill",
+        "iataStationCode": "YYQ",
+        "category": "mid"
+    },
+    {
+        "name": "St John's International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "St. John's",
+        "iataStationCode": "YYT",
+        "category": "mid"
+    },
+    {
+        "name": "Toronto Lester B Pearson International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Toronto",
+        "iataStationCode": "YYZ",
+        "category": "major"
+    },
+    {
+        "name": "Yellowknife Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Yellowknife",
+        "iataStationCode": "YZF",
+        "category": "mid"
+    },
+    {
+        "name": "Zagreb Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "HR",
+        "cityName": "Zagreb",
+        "iataStationCode": "ZAG",
+        "category": "major"
+    },
+    {
+        "name": "Zahedan International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Zahedan",
+        "iataStationCode": "ZAH",
+        "category": "mid"
+    },
+    {
+        "name": "Zamboanga International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PH",
+        "cityName": "Zamboanga cityName",
+        "iataStationCode": "ZAM",
+        "category": "mid"
+    },
+    {
+        "name": "Zaria Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "NG",
+        "cityName": "Zaria",
+        "iataStationCode": "ZAR",
+        "category": "mid"
+    },
+    {
+        "name": "Skopje Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "MK",
+        "cityName": "Skopje",
+        "iataStationCode": "SKP",
+        "category": "mid"
+    },
+    {
+        "name": "Kingsford Smith Airport",
+        "regionCode": "OC",
+        "Iso2CountryCode": "AU",
+        "cityName": "Sydney",
+        "iataStationCode": "SYD",
+        "category": "major"
+    },
+    {
+        "name": "Lanzhou Zhongchuan Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "",
+        "iataStationCode": "ZGC",
+        "category": "mid"
+    },
+    {
+        "name": "Playa de Oro International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Manzanillo",
+        "iataStationCode": "ZLO",
+        "category": "mid"
+    },
+    {
+        "name": "Albany International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Albany",
+        "iataStationCode": "ALB",
+        "category": "mid"
+    },
+    {
+        "name": "General Mitchell International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Milwaukee",
+        "iataStationCode": "MKE",
+        "category": "major"
+    },
+    {
+        "name": "Zanzibar Airport",
+        "regionCode": "AF",
+        "Iso2CountryCode": "TZ",
+        "cityName": "Kiembi Samaki",
+        "iataStationCode": "ZNZ",
+        "category": "mid"
+    },
+    {
+        "name": "Zurich International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "CH",
+        "cityName": "Zurich",
+        "iataStationCode": "ZRH",
+        "category": "major"
+    },
+    {
+        "name": "Louisville International Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "US",
+        "cityName": "Louisville",
+        "iataStationCode": "SDF",
+        "category": "major"
+    },
+    {
+        "name": "Reykjavikurflugvollur Domestik Air Terminal",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IS",
+        "cityName": "Reykjavik",
+        "iataStationCode": "REK",
+        "category": "mid"
+    },
+    {
+        "name": "Abdulrachman Saleh Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Malang-Java Island",
+        "iataStationCode": "MLG",
+        "category": "mid and military"
+    },
+    {
+        "name": "Arkhangelsk-Talagi Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Archangelsk",
+        "iataStationCode": "ARH",
+        "category": "mid"
+    },
+    {
+        "name": "Barnaui Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Barnaui",
+        "iataStationCode": "BAX",
+        "category": "mid"
+    },
+    {
+        "name": "Burnpur Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "",
+        "iataStationCode": "",
+        "category": "mid"
+    },
+    {
+        "name": "Hindon Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "",
+        "iataStationCode": "",
+        "category": "mid"
+    },
+    {
+        "name": "Lublinek Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PL",
+        "cityName": "Å?Ã³dÅº",
+        "iataStationCode": "LCJ",
+        "category": "mid"
+    },
+    {
+        "name": "Rochambeau Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "GF",
+        "cityName": "Cayenne \/ Rochambeau",
+        "iataStationCode": "CAY",
+        "category": "mid"
+    },
+    {
+        "name": "Irkutsk Northwest Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Irkutsk",
+        "iataStationCode": "UIIR",
+        "category": "mid"
+    },
+    {
+        "name": "Sanya-Yaxian Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Sanya",
+        "iataStationCode": "SYX",
+        "category": "major"
+    },
+    {
+        "name": "Alma Ata Northwest Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KZ",
+        "cityName": "Aima Ata",
+        "iataStationCode": "BXJ",
+        "category": "mid and military"
+    },
+    {
+        "name": "Gonggar Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Lhasa",
+        "iataStationCode": "LXA",
+        "category": "mid"
+    },
+    {
+        "name": "Hetian Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Hotan",
+        "iataStationCode": "HTN",
+        "category": "mid"
+    },
+    {
+        "name": "Jiamusi East Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Jiamusi",
+        "iataStationCode": "JMU",
+        "category": "mid"
+    },
+    {
+        "name": "Dresden Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Dresden",
+        "iataStationCode": "DRS",
+        "category": "major"
+    },
+    {
+        "name": "Kazan North Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Kazan",
+        "iataStationCode": "KZN",
+        "category": "major"
+    },
+    {
+        "name": "Qasim Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Qasim",
+        "iataStationCode": "",
+        "category": "small"
+    },
+    {
+        "name": "Baku-Bina Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "AZ",
+        "cityName": "Baku",
+        "iataStationCode": "GYD",
+        "category": "major"
+    },
+    {
+        "name": "Annemasse Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Annemasse",
+        "iataStationCode": "QNJ",
+        "category": "mid"
+    },
+    {
+        "name": "Mosul Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IQ",
+        "cityName": "Mosul",
+        "iataStationCode": "OSB",
+        "category": "mid"
+    },
+    {
+        "name": "Rostov S.W. Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Rostov",
+        "iataStationCode": "ROV",
+        "category": "mid"
+    },
+    {
+        "name": "Nogales Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "",
+        "iataStationCode": "NOG",
+        "category": "mid"
+    },
+    {
+        "name": "Aeroporto de Cabo Frio",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Cabo Frio",
+        "iataStationCode": "CFB",
+        "category": "mid"
+    },
+    {
+        "name": "Helsinki Vantaa Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FI",
+        "cityName": "Helsinki",
+        "iataStationCode": "HEL",
+        "category": "major"
+    },
+    {
+        "name": "Malmin Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FI",
+        "cityName": "Helsinki",
+        "iataStationCode": "HEM",
+        "category": "mid"
+    },
+    {
+        "name": "Oulu Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FI",
+        "cityName": "Oulu \/ Oulunsalo",
+        "iataStationCode": "OUL",
+        "category": "mid"
+    },
+    {
+        "name": "Bordeaux Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Bordeaux\/Merignac",
+        "iataStationCode": "BOD",
+        "category": "major"
+    },
+    {
+        "name": "Charles de Gaulle International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Paris",
+        "iataStationCode": "CDG",
+        "category": "major"
+    },
+    {
+        "name": "Mandelieu Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Cannes\/Mandelieu",
+        "iataStationCode": "CEQ",
+        "category": "mid"
+    },
+    {
+        "name": "Gosselies Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "BE",
+        "cityName": "Brussels",
+        "iataStationCode": "CRL",
+        "category": "mid"
+    },
+    {
+        "name": "St Gatien Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Deauville",
+        "iataStationCode": "DOL",
+        "category": "mid"
+    },
+    {
+        "name": "Geneva Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "CH",
+        "cityName": "Geneva",
+        "iataStationCode": "GVA",
+        "category": "major"
+    },
+    {
+        "name": "Lesquin Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Lille\/Lesquin",
+        "iataStationCode": "LIL",
+        "category": "mid"
+    },
+    {
+        "name": "Luxembourg Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "LU",
+        "cityName": "Luxembourg",
+        "iataStationCode": "LUX",
+        "category": "major"
+    },
+    {
+        "name": "Lyon Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Lyon",
+        "iataStationCode": "LYS",
+        "category": "mid"
+    },
+    {
+        "name": "Paris Orly Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Paris",
+        "iataStationCode": "ORY",
+        "category": "major"
+    },
+    {
+        "name": "Strasbourg Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Strasbourg",
+        "iataStationCode": "SXB",
+        "category": "mid"
+    },
+    {
+        "name": "Blagnac Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FR",
+        "cityName": "Toulouse\/Blagnac",
+        "iataStationCode": "TLS",
+        "category": "major"
+    },
+    {
+        "name": "Quebec Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Quebec",
+        "iataStationCode": "YQB",
+        "category": "major"
+    },
+    {
+        "name": "Montreal-Trudeau",
+        "regionCode": "NA",
+        "Iso2CountryCode": "CA",
+        "cityName": "Montreal",
+        "iataStationCode": "YUL",
+        "category": "major"
+    },
+    {
+        "name": "Cologne Bonn Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Cologne",
+        "iataStationCode": "CGN",
+        "category": "major"
+    },
+    {
+        "name": "Berlin-Tegel International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Berlin",
+        "iataStationCode": "TXL",
+        "category": "major"
+    },
+    {
+        "name": "Vienna Schwechat International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "AT",
+        "cityName": "Vienna",
+        "iataStationCode": "VIE",
+        "category": "major"
+    },
+    {
+        "name": "Frankfurt International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Frankfurt-am-Main",
+        "iataStationCode": "FRA",
+        "category": "major"
+    },
+    {
+        "name": "Hauptzollamt München Flughafen Exportabfertigung",
+        "regionCode": "EU",
+        "Iso2CountryCode": "DE",
+        "cityName": "Munich",
+        "iataStationCode": "MUC",
+        "category": "major"
+    },
+    {
+        "name": "Leonardo da Vinci International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Rome",
+        "iataStationCode": "FCO",
+        "category": "major"
+    },
+    {
+        "name": "Marco Polo International Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "IT",
+        "cityName": "Venezia",
+        "iataStationCode": "VCE",
+        "category": "major"
+    },
+    {
+        "name": "Narita International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "Tokyo",
+        "iataStationCode": "NRT",
+        "category": "major"
+    },
+    {
+        "name": "Fukuoka Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "Fukuoka",
+        "iataStationCode": "FUK",
+        "category": "major"
+    },
+    {
+        "name": "Hiroshima-Nishi Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "",
+        "iataStationCode": "HIW",
+        "category": "mid"
+    },
+    {
+        "name": "Osaka International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "Osaka",
+        "iataStationCode": "ITM",
+        "category": "major"
+    },
+    {
+        "name": "Kansai International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "Osaka",
+        "iataStationCode": "KIX",
+        "category": "major"
+    },
+    {
+        "name": "Chubu International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "Tokoname",
+        "iataStationCode": "NGO",
+        "category": "major"
+    },
+    {
+        "name": "Nagoya Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "Nagoya",
+        "iataStationCode": "NKM",
+        "category": "mid"
+    },
+    {
+        "name": "Okadama Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "Sapporo",
+        "iataStationCode": "OKD",
+        "category": "mid"
+    },
+    {
+        "name": "Sendai Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JP",
+        "cityName": "Sendai",
+        "iataStationCode": "SDJ",
+        "category": "mid"
+    },
+    {
+        "name": "Kimhae International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Busan",
+        "iataStationCode": "PUS",
+        "category": "major"
+    },
+    {
+        "name": "Cheongju International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Cheongju",
+        "iataStationCode": "CJJ",
+        "category": "major"
+    },
+    {
+        "name": "Cheju International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Jeju cityName",
+        "iataStationCode": "CJU",
+        "category": "major"
+    },
+    {
+        "name": "Gimpo International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Seoul",
+        "iataStationCode": "GMP",
+        "category": "major"
+    },
+    {
+        "name": "Gwangju Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Gwangju",
+        "iataStationCode": "KWJ",
+        "category": "mid and military"
+    },
+    {
+        "name": "Daegu International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Daegu",
+        "iataStationCode": "TAE",
+        "category": "mid"
+    },
+    {
+        "name": "Ulsan Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Ulsan",
+        "iataStationCode": "USN",
+        "category": "mid"
+    },
+    {
+        "name": "Yang Yang International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Sokcho \/ Gangneung",
+        "iataStationCode": "YNY",
+        "category": "mid"
+    },
+    {
+        "name": "Bergen Flesland Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NO",
+        "cityName": "Bergen",
+        "iataStationCode": "BGO",
+        "category": "major"
+    },
+    {
+        "name": "Kirkenes Hoybuktmoen Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NO",
+        "cityName": "Kirkenes",
+        "iataStationCode": "KKN",
+        "category": "mid"
+    },
+    {
+        "name": "Oslo Gardermoen Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NO",
+        "cityName": "Oslo",
+        "iataStationCode": "OSL",
+        "category": "major"
+    },
+    {
+        "name": "Stavanger Sola Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NO",
+        "cityName": "Stavanger",
+        "iataStationCode": "SVG",
+        "category": "major"
+    },
+    {
+        "name": "Tromso Langnes Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NO",
+        "cityName": "Tromso",
+        "iataStationCode": "TOS",
+        "category": "major"
+    },
+    {
+        "name": "Trondheim Vaernes Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "NO",
+        "cityName": "Trondheim",
+        "iataStationCode": "TRD",
+        "category": "major"
+    },
+    {
+        "name": "Tabatinga International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Tabatinga",
+        "iataStationCode": "TBT",
+        "category": "mid"
+    },
+    {
+        "name": "Lisbon Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PT",
+        "cityName": "Lisbon",
+        "iataStationCode": "LIS",
+        "category": "major"
+    },
+    {
+        "name": "Val de Caes International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Belem",
+        "iataStationCode": "BEL",
+        "category": "mid"
+    },
+    {
+        "name": "Juscelino Kubitschek International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Brasilia",
+        "iataStationCode": "BSB",
+        "category": "major"
+    },
+    {
+        "name": "Boa Vista International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Boa Vista",
+        "iataStationCode": "BVB",
+        "category": "mid"
+    },
+    {
+        "name": "Marechal Rondon International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Cuiaba",
+        "iataStationCode": "CGB",
+        "category": "mid"
+    },
+    {
+        "name": "Congonhas International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Sao Paulo",
+        "iataStationCode": "CGH",
+        "category": "major"
+    },
+    {
+        "name": "Campo Grande International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Campo Grande",
+        "iataStationCode": "CGR",
+        "category": "mid"
+    },
+    {
+        "name": "Corumba International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Corumba",
+        "iataStationCode": "CMG",
+        "category": "mid"
+    },
+    {
+        "name": "Tancredo Neves International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Belo Horizonte",
+        "iataStationCode": "CNF",
+        "category": "major"
+    },
+    {
+        "name": "Afonso Pena International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Curitiba",
+        "iataStationCode": "CWB",
+        "category": "mid"
+    },
+    {
+        "name": "Hercilio Luz International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Florianopolis",
+        "iataStationCode": "FLN",
+        "category": "major"
+    },
+    {
+        "name": "Funchal Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PT",
+        "cityName": "Funchal",
+        "iataStationCode": "FNC",
+        "category": "mid"
+    },
+    {
+        "name": "Pinto Martins International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Fortaleza",
+        "iataStationCode": "FOR",
+        "category": "mid"
+    },
+    {
+        "name": "Rio de Janeiro-Antonio Carlos Jobim International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Rio De Janeiro",
+        "iataStationCode": "GIG",
+        "category": "major"
+    },
+    {
+        "name": "Governador Andre Franco Montoro International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Sao Paulo",
+        "iataStationCode": "GRU",
+        "category": "major"
+    },
+    {
+        "name": "Santa Genoveva Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Goiania",
+        "iataStationCode": "GYN",
+        "category": "mid"
+    },
+    {
+        "name": "Cataratas International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Foz Do Iguacu",
+        "iataStationCode": "IGU",
+        "category": "mid"
+    },
+    {
+        "name": "Lauro Carneiro de Loyola Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Joinville",
+        "iataStationCode": "JOI",
+        "category": "mid"
+    },
+    {
+        "name": "Presidente Castro Pinto International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Joao Pessoa",
+        "iataStationCode": "JPA",
+        "category": "mid"
+    },
+    {
+        "name": "Augusto Severo International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Natal",
+        "iataStationCode": "NAT",
+        "category": "major"
+    },
+    {
+        "name": "Francisco Sa Carneiro Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PT",
+        "cityName": "Porto",
+        "iataStationCode": "OPO",
+        "category": "major"
+    },
+    {
+        "name": "Salgado Filho International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Porto Alegre",
+        "iataStationCode": "POA",
+        "category": "mid"
+    },
+    {
+        "name": "Governador Jorge Teixeira de Oliveira International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Porto Velho",
+        "iataStationCode": "PVH",
+        "category": "mid"
+    },
+    {
+        "name": "Gilberto Freyre International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Recife",
+        "iataStationCode": "REC",
+        "category": "mid"
+    },
+    {
+        "name": "Marechal Cunha Machado International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Sao Luis",
+        "iataStationCode": "SLZ",
+        "category": "mid"
+    },
+    {
+        "name": "Deputado Luis Eduardo Magalhaes International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Salvador",
+        "iataStationCode": "SSA",
+        "category": "mid"
+    },
+    {
+        "name": "Senador Petronio Portella Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Teresina",
+        "iataStationCode": "THE",
+        "category": "mid"
+    },
+    {
+        "name": "Viracopos International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Campinas",
+        "iataStationCode": "VCP",
+        "category": "mid"
+    },
+    {
+        "name": "Goiabeiras Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Vitoria",
+        "iataStationCode": "VIX",
+        "category": "mid"
+    },
+    {
+        "name": "Gran Canaria Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Gran Canaria Island",
+        "iataStationCode": "LPA",
+        "category": "major"
+    },
+    {
+        "name": "El Calafate International Airport",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "El Calafate",
+        "iataStationCode": "ING",
+        "category": "mid"
+    },
+    {
+        "name": "Alicante Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Alicante",
+        "iataStationCode": "ALC",
+        "category": "major"
+    },
+    {
+        "name": "Barcelona Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Barcelona",
+        "iataStationCode": "BCN",
+        "category": "major"
+    },
+    {
+        "name": "Bilbao Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Bilbao",
+        "iataStationCode": "BIO",
+        "category": "mid"
+    },
+    {
+        "name": "Almeria Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Almeria",
+        "iataStationCode": "LEI",
+        "category": "mid"
+    },
+    {
+        "name": "Adolfo Suárez Madrid-Barajas Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Madrid",
+        "iataStationCode": "MAD",
+        "category": "major"
+    },
+    {
+        "name": "Palma de Mallorca Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Palma De Mallorca",
+        "iataStationCode": "PMI",
+        "category": "major"
+    },
+    {
+        "name": "Luis Munoz Marin Airport",
+        "regionCode": "NA",
+        "Iso2CountryCode": "PR",
+        "cityName": "San Juan",
+        "iataStationCode": "SJU",
+        "category": "major"
+    },
+    {
+        "name": "Tenerife North Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Tenerife Island",
+        "iataStationCode": "TFN",
+        "category": "major"
+    },
+    {
+        "name": "Valencia Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "ES",
+        "cityName": "Valencia",
+        "iataStationCode": "VLC",
+        "category": "mid"
+    },
+    {
+        "name": "Arlanda Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "SE",
+        "cityName": "Stockholm",
+        "iataStationCode": "ARN",
+        "category": "major"
+    },
+    {
+        "name": "Bromma Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "SE",
+        "cityName": "Stockholm",
+        "iataStationCode": "BMA",
+        "category": "mid"
+    },
+    {
+        "name": "Gothenburg Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "SE",
+        "cityName": "Gothenburg",
+        "iataStationCode": "GOT",
+        "category": "major"
+    },
+    {
+        "name": "Kiruna Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "SE",
+        "cityName": "",
+        "iataStationCode": "KRN",
+        "category": "mid"
+    },
+    {
+        "name": "Kallax Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "SE",
+        "cityName": "Lulea",
+        "iataStationCode": "LLA",
+        "category": "major"
+    },
+    {
+        "name": "Skavsta Airport",
+        "regionCode": "EU",
+        "Iso2CountryCode": "SE",
+        "cityName": "Stockholm \/ Nykoeping",
+        "iataStationCode": "NYO",
+        "category": "mid"
+    },
+    {
+        "name": "Polonia International",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Medan-Sumatra Island",
+        "iataStationCode": "MES",
+        "category": "mid"
+    },
+    {
+        "name": "Juanda International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Surabaya",
+        "iataStationCode": "SUB",
+        "category": "major"
+    },
+    {
+        "name": "Husein Sastranegara International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Bandung-Java Island",
+        "iataStationCode": "BDO",
+        "category": "mid"
+    },
+    {
+        "name": "Soekarno-Hatta International Airport",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Jakarta",
+        "iataStationCode": "CGK",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "Mar del Plata",
+        "iataStationCode": "MDQ",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "Rosario",
+        "iataStationCode": "ROS",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "AE",
+        "cityName": "Abu Dhabi",
+        "iataStationCode": "AUH",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "AF",
+        "Iso2CountryCode": "DZ",
+        "cityName": "Constantine",
+        "iataStationCode": "CZL",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "SA",
+        "Iso2CountryCode": "AR",
+        "cityName": "Mendoza",
+        "iataStationCode": "MDZ",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Maceio",
+        "iataStationCode": "MCZ",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "SA",
+        "Iso2CountryCode": "BR",
+        "cityName": "Manaus",
+        "iataStationCode": "MAO",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "NA",
+        "Iso2CountryCode": "KY",
+        "cityName": "Georgetown",
+        "iataStationCode": "GCM",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CM",
+        "cityName": "Yaounde",
+        "iataStationCode": "NSI",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "EG",
+        "cityName": "Sharm el-Sheikh",
+        "iataStationCode": "SSH",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "EG",
+        "cityName": "Taba",
+        "iataStationCode": "TCP",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AF",
+        "Iso2CountryCode": "CF",
+        "cityName": "Bangui",
+        "iataStationCode": "BGF",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Shanghai",
+        "iataStationCode": "PVG",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Hangzhou",
+        "iataStationCode": "HGH",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Zhengzhou",
+        "iataStationCode": "CGO",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "CN",
+        "cityName": "Dalian",
+        "iataStationCode": "DLC",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "AF",
+        "Iso2CountryCode": "EG",
+        "cityName": "Aswan",
+        "iataStationCode": "ASW",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "EU",
+        "Iso2CountryCode": "CZ",
+        "cityName": "Prague",
+        "iataStationCode": "PRG",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "EU",
+        "Iso2CountryCode": "FI",
+        "cityName": "Rovaniemi",
+        "iataStationCode": "RVN",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "ID",
+        "cityName": "Bandar Lampung-Sumatra Island",
+        "iataStationCode": "TKG",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GR",
+        "cityName": "Athens",
+        "iataStationCode": "ATH",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "EU",
+        "Iso2CountryCode": "GR",
+        "cityName": "Heraklion",
+        "iataStationCode": "HER",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "SA",
+        "Iso2CountryCode": "GY",
+        "cityName": "Georgetown",
+        "iataStationCode": "GEO",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "GE",
+        "cityName": "Tbilisi",
+        "iataStationCode": "TBS",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Cochin",
+        "iataStationCode": "COK",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IN",
+        "cityName": "Vadodara",
+        "iataStationCode": "BDQ",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "IR",
+        "cityName": "Kermanshah",
+        "iataStationCode": "KSH",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AF",
+        "Iso2CountryCode": "LY",
+        "cityName": "Benghazi",
+        "iataStationCode": "BEN",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "JO",
+        "cityName": "Amman",
+        "iataStationCode": "ADJ",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AF",
+        "Iso2CountryCode": "KE",
+        "cityName": "Eldoret",
+        "iataStationCode": "EDL",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "OC",
+        "Iso2CountryCode": "KI",
+        "cityName": "Banana",
+        "iataStationCode": "CXI",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "KR",
+        "cityName": "Seoul",
+        "iataStationCode": "ICN",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "EU",
+        "Iso2CountryCode": "LT",
+        "cityName": "Å iauliai",
+        "iataStationCode": "SQQ",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "OC",
+        "Iso2CountryCode": "NU",
+        "cityName": "Alofi",
+        "iataStationCode": "IUE",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "MV",
+        "cityName": "Male",
+        "iataStationCode": "MLE",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Culiacan",
+        "iataStationCode": "CUL",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "NA",
+        "Iso2CountryCode": "MX",
+        "cityName": "Veracruz",
+        "iataStationCode": "VER",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "SA",
+        "Iso2CountryCode": "PY",
+        "cityName": "Ciudad del Este",
+        "iataStationCode": "AGT",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "SA",
+        "Iso2CountryCode": "PE",
+        "cityName": "Arequipa",
+        "iataStationCode": "AQP",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PK",
+        "cityName": "Islamabad",
+        "iataStationCode": "ISB",
+        "category": "major and military"
+    },
+    {
+        "name": "",
+        "regionCode": "EU",
+        "Iso2CountryCode": "PT",
+        "cityName": "",
+        "iataStationCode": "XXC",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AF",
+        "Iso2CountryCode": "GW",
+        "cityName": "Bissau",
+        "iataStationCode": "OXB",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "AS",
+        "Iso2CountryCode": "PH",
+        "cityName": "Davao cityName",
+        "iataStationCode": "DVO",
+        "category": "major"
+    },
+    {
+        "name": "",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Chelyabinsk",
+        "iataStationCode": "CEK",
+        "category": "mid"
+    },
+    {
+        "name": "",
+        "regionCode": "EU",
+        "Iso2CountryCode": "RU",
+        "cityName": "Vladivostok",
+        "iataStationCode": "VVO",
+        "category": "mid and military"
+    }
+]

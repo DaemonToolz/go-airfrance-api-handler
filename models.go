@@ -294,12 +294,7 @@ type StationCitiesResponse struct {
 type StationCity struct {
 	IataStationCode string `json:"iataStationCode"`
 	Name            string `json:"name"`
-	IataCityCode    string `json:"iataCityCode"`
 	CityName        string `json:"cityName"`
 	Iso2CountryCode string `json:"iso2CountryCode"`
-	CountryName     string `json:"countryName"`
-	SubRegionCode   string `json:"subRegionCode"`
 	RegionCode      string `json:"regionCode"`
-	SubRegionName   string `json:"subRegionName"`
-	RegionName      string `json:"regionName"`
 }

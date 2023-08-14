@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 	"reflect"
 )
 
@@ -17,7 +18,7 @@ const (
 
 func sendAllFlightsRequest(from string, to string, begin string, end string, pageNumber int) FlightsData {
 	data := FlightsData{}
-	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&startRange=%s&endRange=%s&pageSize=12&origin=%s&destination=%s&departureCity=&arrivalCity=&pageNumber=%d", begin, end, from, to, pageNumber), nil, nil), &data)
+	json.Unmarshal(sendRequest("GET", fmt.Sprintf("https://api.airfranceklm.com/opendata/flightstatus?serviceType=J&startRange=%s&endRange=%s&pageSize=24&origin=%s&destination=%s&departureCity=&arrivalCity=&pageNumber=%d", begin, end, from, to, pageNumber), nil, nil), &data)
 	return data
 }
 
@@ -81,7 +82,13 @@ func sendFlightRequest(id string) Flight {
 
 func sendStationsRequest() StationCitiesResponse {
 	data := StationCitiesResponse{}
-	json.Unmarshal(sendRequest("GET", "https://api.airfranceklm.com/opendata/network-and-schedule/typical-flight-schedule/stations", nil, nil), &data)
+	jsonFile, err := os.Open("data/airports.json")
+	if err != nil {
+		fmt.Println(err)
+	}
+	defer jsonFile.Close()
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+	json.Unmarshal(byteValue, &data.StationCities)
 	return data
 }
 
@@ -105,7 +112,6 @@ func sendRequest(method string, uri string, inBody interface{}, headers map[stri
 	var req *http.Request
 	if inBody != nil {
 		bodyByte, _ := json.Marshal(inBody)
-		fmt.Println(string(bodyByte))
 		req, _ = http.NewRequest(method, uri, bytes.NewBuffer(bodyByte))
 
 		fmt.Println("Sending with body")

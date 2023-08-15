@@ -9,11 +9,18 @@ import (
 	"net/http"
 	"os"
 	"reflect"
+	"strings"
 )
 
 // curl -X GET "network-and-schedule/typical-flight-schedule/iata-seasons" -H "Api-Key:****"
 const (
 	NetworkSchedule = "network-and-schedule"
+)
+
+const (
+	INTERNATIONAL = "major"
+	DOMESTIC      = "mid"
+	LOCAL         = "small"
 )
 
 func sendAllFlightsRequest(from string, to string, begin string, end string, pageNumber int) FlightsData {
@@ -80,7 +87,7 @@ func sendFlightRequest(id string) Flight {
 	return data
 }
 
-func sendStationsRequest() StationCitiesResponse {
+func sendStationsRequest(stationType string) StationCitiesResponse {
 	data := StationCitiesResponse{}
 	jsonFile, err := os.Open("data/airports.json")
 	if err != nil {
@@ -89,6 +96,16 @@ func sendStationsRequest() StationCitiesResponse {
 	defer jsonFile.Close()
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 	json.Unmarshal(byteValue, &data.StationCities)
+	if strings.Trim(stationType, " ") != "" {
+
+		for i := 0; i < len(data.StationCities); i++ {
+			if data.StationCities[i].Category != stationType {
+				data.StationCities = append(data.StationCities[:i], data.StationCities[i+1:]...)
+				i--
+			}
+		}
+	}
+
 	return data
 }
 

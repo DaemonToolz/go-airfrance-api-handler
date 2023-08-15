@@ -55,8 +55,8 @@ func getOfferDetail(w http.ResponseWriter, r *http.Request) {
 
 func getAllStations(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
-
-	if err := json.NewEncoder(w).Encode(sendStationsRequest().StationCities); err != nil {
+	vars := r.URL.Query()
+	if err := json.NewEncoder(w).Encode(sendStationsRequest(vars.Get("type")).StationCities); err != nil {
 		log.Printf(err.Error())
 		panic(err)
 	}

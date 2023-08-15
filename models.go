@@ -57,6 +57,7 @@ type Airport struct {
 	Code        string      `json:"code"`
 	City        City        `json:"city"`
 	Coordinates Coordinates `json:"location"`
+	Category    string      `json:"category"`
 }
 
 type City struct {
@@ -297,4 +298,5 @@ type StationCity struct {
 	CityName        string `json:"cityName"`
 	Iso2CountryCode string `json:"iso2CountryCode"`
 	RegionCode      string `json:"regionCode"`
+	Category        string `json:"category"`
 }

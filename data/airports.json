@@ -165,7 +165,7 @@
         "Iso2CountryCode": "CL",
         "cityName": "Iquique",
         "iataStationCode": "IQQ",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Karachi Civil Airport",
@@ -462,7 +462,7 @@
         "Iso2CountryCode": "QA",
         "cityName": "Doha",
         "iataStationCode": "DOH",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Nadi International Airport",
@@ -718,7 +718,7 @@
         "Iso2CountryCode": "IN",
         "cityName": "Amritsar",
         "iataStationCode": "ATQ",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Atar Airport",
@@ -1302,7 +1302,7 @@
         "Iso2CountryCode": "US",
         "cityName": "Charleston",
         "iataStationCode": "CHS",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Peelamedu Airport",
@@ -1486,7 +1486,7 @@
         "Iso2CountryCode": "US",
         "cityName": "Charleston",
         "iataStationCode": "CRW",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Huanghua Airport",
@@ -1766,7 +1766,7 @@
         "Iso2CountryCode": "AU",
         "cityName": "Darwin",
         "iataStationCode": "DRW",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Des Moines International Airport",
@@ -1942,7 +1942,7 @@
         "Iso2CountryCode": "US",
         "cityName": "Fargo",
         "iataStationCode": "FAR",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Fresno Yosemite International Airport",
@@ -2214,7 +2214,7 @@
         "Iso2CountryCode": "IN",
         "cityName": "Gwalior",
         "iataStationCode": "GWL",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Simon Bolivar International Airport",
@@ -2454,7 +2454,7 @@
         "Iso2CountryCode": "RU",
         "cityName": "Irkutsk",
         "iataStationCode": "IKT",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Wilmington International Airport",
@@ -2550,7 +2550,7 @@
         "Iso2CountryCode": "IN",
         "cityName": "Chandigarh",
         "iataStationCode": "IXC",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Jammu Airport",
@@ -2598,7 +2598,7 @@
         "Iso2CountryCode": "IN",
         "cityName": "Jodhpur",
         "iataStationCode": "JDH",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "King Abdul Aziz International Airport",
@@ -2838,7 +2838,7 @@
         "Iso2CountryCode": "TR",
         "cityName": "Konya",
         "iataStationCode": "KYA",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Luanda 4 de Fevereiro Airport",
@@ -3070,7 +3070,7 @@
         "Iso2CountryCode": "UA",
         "cityName": "Lviv",
         "iataStationCode": "LWO",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Luxor Airport",
@@ -3086,7 +3086,7 @@
         "Iso2CountryCode": "PK",
         "cityName": "Faisalabad",
         "iataStationCode": "LYP",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Svalbard Longyear Airport",
@@ -3198,7 +3198,7 @@
         "Iso2CountryCode": "EC",
         "cityName": "Manta",
         "iataStationCode": "MEC",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Melbourne International Airport",
@@ -3430,7 +3430,7 @@
         "Iso2CountryCode": "PK",
         "cityName": "Multan",
         "iataStationCode": "MUX",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Carrasco International Airport",
@@ -3726,7 +3726,7 @@
         "Iso2CountryCode": "UA",
         "cityName": "Zaporizhia",
         "iataStationCode": "OZH",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Mais Gate International Airport",
@@ -3974,7 +3974,7 @@
         "Iso2CountryCode": "IN",
         "cityName": "Pune",
         "iataStationCode": "PNQ",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Port Moresby International Airport",
@@ -4006,7 +4006,7 @@
         "Iso2CountryCode": "IT",
         "cityName": "Pisa",
         "iataStationCode": "PSA",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Polokwane International Airport",
@@ -4054,7 +4054,7 @@
         "Iso2CountryCode": "SD",
         "cityName": "Port Sudan",
         "iataStationCode": "PZU",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Birmingham International Airport",
@@ -4894,7 +4894,7 @@
         "Iso2CountryCode": "AU",
         "cityName": "Townsville",
         "iataStationCode": "TSV",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Teniente Benjamin Matienzo Airport",
@@ -5206,7 +5206,7 @@
         "Iso2CountryCode": "CN",
         "cityName": "Yantai",
         "iataStationCode": "YNT",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "Peace River Airport",
@@ -5566,7 +5566,7 @@
         "Iso2CountryCode": "ID",
         "cityName": "Malang-Java Island",
         "iataStationCode": "MLG",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Arkhangelsk-Talagi Airport",
@@ -5638,7 +5638,7 @@
         "Iso2CountryCode": "KZ",
         "cityName": "Aima Ata",
         "iataStationCode": "BXJ",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Gonggar Airport",
@@ -6038,7 +6038,7 @@
         "Iso2CountryCode": "KR",
         "cityName": "Gwangju",
         "iataStationCode": "KWJ",
-        "category": "mid and military"
+        "category": "mid"
     },
     {
         "name": "Daegu International Airport",
@@ -6838,7 +6838,7 @@
         "Iso2CountryCode": "PK",
         "cityName": "Islamabad",
         "iataStationCode": "ISB",
-        "category": "major and military"
+        "category": "major"
     },
     {
         "name": "",
@@ -6878,6 +6878,6 @@
         "Iso2CountryCode": "RU",
         "cityName": "Vladivostok",
         "iataStationCode": "VVO",
-        "category": "mid and military"
+        "category": "mid"
     }
 ]
